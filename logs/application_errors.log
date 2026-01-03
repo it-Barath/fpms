@@ -1,0 +1,1269 @@
+2025-12-09 15:42:18 - [Warning] require_once(classes/Auth.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 3
+2025-12-09 16:26:03 - [Warning] include(includes/header.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 42
+2025-12-09 16:26:03 - [Warning] include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 42
+2025-12-09 16:26:03 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 49
+2025-12-09 16:26:03 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 49
+2025-12-09 16:26:03 - [Warning] include(includes/nav.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:26:03 - [Warning] include(): Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:26:03 - [Warning] include(includes/footer.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 664
+2025-12-09 16:26:03 - [Warning] include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 664
+2025-12-09 16:31:05 - [Warning] include(includes/header.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 42
+2025-12-09 16:31:05 - [Warning] include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 42
+2025-12-09 16:31:05 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 49
+2025-12-09 16:31:05 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 49
+2025-12-09 16:31:05 - [Warning] include(includes/nav.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:31:05 - [Warning] include(): Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:31:05 - [Warning] include(includes/footer.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 664
+2025-12-09 16:31:05 - [Warning] include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 664
+2025-12-09 16:32:42 - [Warning] include(sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 303
+2025-12-09 16:32:42 - [Warning] include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 303
+2025-12-09 16:32:42 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 49
+2025-12-09 16:32:42 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 49
+2025-12-09 16:32:42 - [Warning] include(includes/nav.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:32:42 - [Warning] include(): Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:32:42 - [Warning] include(includes/footer.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 664
+2025-12-09 16:32:42 - [Warning] include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 664
+2025-12-09 16:33:22 - [Warning] include(sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 303
+2025-12-09 16:33:22 - [Warning] include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 303
+2025-12-09 16:33:22 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 49
+2025-12-09 16:33:22 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 49
+2025-12-09 16:33:22 - [Warning] include(includes/nav.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:33:22 - [Warning] include(): Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:34:29 - [Warning] include(includes/nav.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:34:29 - [Warning] include(): Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:35:14 - [Warning] include(includes/nav.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:35:14 - [Warning] include(): Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:35:33 - [Warning] include(includes/nav.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:35:33 - [Warning] include(): Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:36:37 - [Warning] include(includes/nav.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:36:37 - [Warning] include(): Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:38:41 - [Warning] include(includes/nav.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:38:41 - [Warning] include(): Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:42:10 - [Warning] include(includes/nav.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:42:10 - [Warning] include(): Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 55
+2025-12-09 16:42:58 - [Warning] include(includes/nav.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 53
+2025-12-09 16:42:58 - [Warning] include(): Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 53
+2025-12-09 16:43:15 - [Warning] include(includes/nav.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 53
+2025-12-09 16:43:15 - [Warning] include(): Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 53
+2025-12-09 22:06:58 - [Warning] include(includes/nav.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 53
+2025-12-09 22:06:58 - [Warning] include(): Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 53
+2025-12-09 22:08:45 - [Warning] include(includes/nav.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 53
+2025-12-09 22:08:45 - [Warning] include(): Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 53
+2025-12-09 22:08:49 - [Warning] include(includes/nav.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 53
+2025-12-09 22:08:49 - [Warning] include(): Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 53
+2025-12-09 22:33:33 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-09 22:33:33 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-09 22:33:33 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-09 22:33:33 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-09 22:33:33 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-09 22:35:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-09 22:35:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-09 22:35:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-09 22:35:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-09 22:35:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-09 22:46:27 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-09 22:46:27 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-09 22:46:27 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-09 22:46:27 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-09 22:46:27 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-09 23:01:23 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-09 23:01:23 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-09 23:01:23 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-09 23:01:23 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-09 23:01:23 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-10 05:52:46 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-10 05:52:46 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-10 05:52:46 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-10 05:52:46 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-10 05:52:46 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-10 05:54:44 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-10 05:54:44 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-10 05:54:44 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-10 05:54:44 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-10 05:54:44 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-10 05:54:54 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-10 05:54:54 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-10 05:54:54 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-10 05:54:54 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-10 05:54:54 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-10 06:15:35 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-10 06:15:35 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-10 06:15:35 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-10 06:15:35 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-10 06:15:35 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-10 07:03:53 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-10 07:03:53 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-10 07:03:53 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-10 07:03:53 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-10 07:03:53 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-10 07:03:53 - [Warning] session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /var/www/html/fpms/logout.php on line 54
+2025-12-10 07:37:13 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-10 07:37:13 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-10 07:37:13 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-10 07:37:13 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-10 07:37:13 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-10 09:22:27 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-10 09:22:27 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-10 09:22:27 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-10 09:22:27 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-10 09:22:27 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-10 09:22:27 - [Warning] require_once(../classes/CitizenManager.php): Failed to open stream: No such file or directory in /var/www/html/fpms/division/view_families.php on line 8
+2025-12-10 09:23:10 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-10 09:23:10 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-10 09:23:10 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-10 09:23:10 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-10 09:23:10 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-10 09:23:10 - [Warning] require_once(../classes/CitizenManager.php): Failed to open stream: No such file or directory in /var/www/html/fpms/division/view_families.php on line 8
+2025-12-10 09:25:28 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-10 09:25:28 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-10 09:25:28 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-10 09:25:28 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-10 09:25:28 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-10 09:30:26 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-10 09:30:26 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-10 09:30:26 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-10 09:30:26 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-10 09:30:26 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-10 09:32:00 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-10 09:32:00 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-10 09:32:00 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-10 09:32:00 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-10 09:32:00 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-10 11:08:03 - [Warning] require_once(../../../includes/auth.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/add_family.php on line 8
+2025-12-10 11:08:51 - [Warning] require_once(../../../includes/functions.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/add_family.php on line 9
+2025-12-10 11:25:31 - [Warning] Undefined variable $sidebar_path in /var/www/html/fpms/users/gn/citizens/add_family.php on line 428
+2025-12-10 11:25:31 - [Deprecated] file_exists(): Passing null to parameter #1 ($filename) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/add_family.php on line 428
+2025-12-10 11:28:14 - [Warning] Undefined variable $main_class in /var/www/html/fpms/users/gn/citizens/add_family.php on line 418
+2025-12-10 11:29:56 - [Warning] Undefined variable $main_class in /var/www/html/fpms/users/gn/citizens/add_family.php on line 418
+2025-12-10 11:35:48 - [Warning] Undefined variable $main_class in /var/www/html/fpms/users/gn/citizens/add_family.php on line 428
+2025-12-10 11:41:02 - [Warning] Undefined variable $main_class in /var/www/html/fpms/users/gn/citizens/add_family.php on line 428
+2025-12-10 11:41:08 - [Warning] Undefined variable $main_class in /var/www/html/fpms/users/gn/citizens/add_family.php on line 428
+2025-12-10 11:45:53 - [Warning] Undefined variable $main_class in /var/www/html/fpms/users/gn/citizens/add_family.php on line 428
+2025-12-10 11:47:28 - [Warning] Undefined variable $main_class in /var/www/html/fpms/users/gn/citizens/add_family.php on line 428
+2025-12-10 12:02:12 - [Warning] Undefined property: mysqli::$in_transaction in /var/www/html/fpms/users/gn/citizens/add_family.php on line 259
+2025-12-10 12:03:56 - [Warning] Undefined property: mysqli::$in_transaction in /var/www/html/fpms/users/gn/citizens/add_family.php on line 259
+2025-12-10 15:31:25 - [Notice] Only variables should be passed by reference in /var/www/html/fpms/users/gn/citizens/add_family.php on line 222
+2025-12-10 15:31:25 - [Notice] Only variables should be passed by reference in /var/www/html/fpms/users/gn/citizens/add_family.php on line 257
+2025-12-10 15:31:25 - [Notice] Only variables should be passed by reference in /var/www/html/fpms/users/gn/citizens/add_family.php on line 258
+2025-12-10 15:47:51 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 203
+2025-12-10 15:48:08 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 203
+2025-12-10 16:11:36 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 225
+2025-12-10 16:14:19 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 225
+2025-12-10 16:14:29 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 225
+2025-12-10 16:14:58 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 225
+2025-12-10 16:15:16 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 225
+2025-12-10 16:15:36 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 225
+2025-12-10 16:15:58 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 225
+2025-12-10 16:16:22 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 225
+2025-12-10 16:16:58 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 225
+2025-12-10 16:18:59 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 225
+2025-12-10 16:21:28 - [Warning] Undefined variable $family in /var/www/html/fpms/users/gn/citizens/list_families.php on line 144
+2025-12-10 16:21:28 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/list_families.php on line 144
+2025-12-10 16:21:28 - [Deprecated] urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/list_families.php on line 144
+2025-12-10 16:21:28 - [Warning] Undefined variable $family in /var/www/html/fpms/users/gn/citizens/list_families.php on line 148
+2025-12-10 16:21:28 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/list_families.php on line 148
+2025-12-10 16:21:28 - [Deprecated] urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/list_families.php on line 148
+2025-12-10 16:21:28 - [Warning] Undefined variable $family in /var/www/html/fpms/users/gn/citizens/list_families.php on line 152
+2025-12-10 16:21:28 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/list_families.php on line 152
+2025-12-10 16:21:28 - [Deprecated] urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/list_families.php on line 152
+2025-12-10 16:21:28 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 258
+2025-12-10 16:22:29 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 237
+2025-12-10 16:36:26 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 290
+2025-12-10 16:38:33 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 290
+2025-12-10 17:02:35 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 290
+2025-12-10 17:03:31 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 290
+2025-12-10 17:04:12 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 290
+2025-12-10 17:04:21 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/users/gn/citizens/add_member.php on line 10
+2025-12-10 17:10:51 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/users/gn/citizens/add_member.php on line 10
+2025-12-10 17:16:17 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 290
+2025-12-10 17:18:10 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 290
+2025-12-10 17:18:25 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 290
+2025-12-10 17:29:27 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 290
+2025-12-10 17:32:19 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 290
+2025-12-10 17:36:50 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 290
+2025-12-10 17:37:09 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 293
+2025-12-10 17:37:19 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 293
+2025-12-10 17:37:28 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 293
+2025-12-10 17:38:02 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 293
+2025-12-10 17:38:35 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 293
+2025-12-10 17:39:07 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 293
+2025-12-10 17:39:40 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 293
+2025-12-10 17:40:13 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 293
+2025-12-10 17:40:47 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 293
+2025-12-10 17:41:19 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 293
+2025-12-10 17:47:20 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 255
+2025-12-10 17:48:34 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 255
+2025-12-10 17:49:05 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 255
+2025-12-10 17:55:21 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 168
+2025-12-10 17:55:32 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 168
+2025-12-10 17:59:09 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 102
+2025-12-10 17:59:22 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 102
+2025-12-10 18:00:10 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 105
+2025-12-10 18:00:19 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 105
+2025-12-10 18:04:47 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 255
+2025-12-10 18:11:14 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 247
+2025-12-10 18:13:47 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 247
+2025-12-10 18:14:22 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 247
+2025-12-10 18:15:41 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 247
+2025-12-10 18:15:51 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 247
+2025-12-10 21:43:47 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 247
+2025-12-10 21:58:33 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 247
+2025-12-10 21:58:45 - [Warning] foreach() argument must be of type array|object, string given in /var/www/html/fpms/users/gn/citizens/list_families.php on line 247
+2025-12-11 10:52:01 - [Warning] require_once(../../../classes/Validator.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 15
+2025-12-11 10:54:07 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 569
+2025-12-11 10:54:07 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 570
+2025-12-11 10:54:07 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 571
+2025-12-11 10:54:07 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 578
+2025-12-11 10:54:07 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-11 10:54:07 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-11 10:59:30 - [Warning] require_once(../../../classes/Validator.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 15
+2025-12-11 11:00:25 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 569
+2025-12-11 11:00:25 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 570
+2025-12-11 11:00:25 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 571
+2025-12-11 11:00:25 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 578
+2025-12-11 11:00:25 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-11 11:00:25 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-11 11:00:58 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 569
+2025-12-11 11:00:58 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 570
+2025-12-11 11:00:58 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 571
+2025-12-11 11:00:58 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 578
+2025-12-11 11:00:58 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-11 11:00:58 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-11 11:01:47 - [Notice] Only variables should be passed by reference in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 324
+2025-12-11 11:01:47 - [Notice] Only variables should be passed by reference in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 325
+2025-12-11 11:01:47 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 569
+2025-12-11 11:01:47 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 570
+2025-12-11 11:01:47 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 571
+2025-12-11 11:01:47 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 578
+2025-12-11 11:01:47 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-11 11:01:47 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-11 11:02:27 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 569
+2025-12-11 11:02:27 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 570
+2025-12-11 11:02:27 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 571
+2025-12-11 11:02:27 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 578
+2025-12-11 11:02:27 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-11 11:02:27 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-11 11:02:32 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 569
+2025-12-11 11:02:32 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 570
+2025-12-11 11:02:32 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 571
+2025-12-11 11:02:32 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 578
+2025-12-11 11:02:32 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-11 11:02:32 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-11 11:15:12 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 569
+2025-12-11 11:15:12 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 570
+2025-12-11 11:15:12 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 571
+2025-12-11 11:15:12 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 578
+2025-12-11 11:15:12 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-11 11:15:12 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-11 11:16:05 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 569
+2025-12-11 11:16:05 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 570
+2025-12-11 11:16:05 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 571
+2025-12-11 11:16:05 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 578
+2025-12-11 11:16:05 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-11 11:16:05 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-11 11:57:07 - [Warning] Undefined array key "to_gn_id" in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 674
+2025-12-11 11:57:07 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 674
+2025-12-11 12:21:49 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 569
+2025-12-11 12:21:49 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 570
+2025-12-11 12:21:49 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 571
+2025-12-11 12:21:49 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 578
+2025-12-11 12:21:49 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-11 12:21:49 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-11 12:25:35 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 9
+2025-12-11 12:29:22 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/users/gn/citizens/handle_transfer.php on line 9
+2025-12-11 12:31:14 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 17
+2025-12-11 12:34:36 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 17
+2025-12-11 12:35:18 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 17
+2025-12-11 12:36:37 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 17
+2025-12-11 13:04:42 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 17
+2025-12-11 13:10:23 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 17
+2025-12-11 13:10:23 - [Warning] require_once(../includes/header.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 300
+2025-12-11 13:13:42 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 17
+2025-12-11 13:13:42 - [Warning] Undefined variable $stats in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 344
+2025-12-11 13:13:42 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 344
+2025-12-11 13:13:42 - [Warning] Undefined variable $stats in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 352
+2025-12-11 13:13:42 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 352
+2025-12-11 13:13:42 - [Warning] Undefined variable $stats in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 360
+2025-12-11 13:13:42 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 360
+2025-12-11 13:13:42 - [Warning] Undefined variable $stats in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 368
+2025-12-11 13:13:42 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 368
+2025-12-11 13:13:42 - [Warning] Undefined variable $stats in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 376
+2025-12-11 13:13:42 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 376
+2025-12-11 13:13:42 - [Warning] Undefined variable $transfers in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 387
+2025-12-11 13:13:42 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 387
+2025-12-11 13:13:42 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 409
+2025-12-11 13:13:42 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 410
+2025-12-11 13:13:42 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 411
+2025-12-11 13:13:42 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 412
+2025-12-11 13:13:42 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 413
+2025-12-11 13:13:42 - [Warning] Undefined variable $filter_date_from in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 418
+2025-12-11 13:13:42 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 418
+2025-12-11 13:13:42 - [Warning] Undefined variable $filter_date_to in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 422
+2025-12-11 13:13:42 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 422
+2025-12-11 13:13:42 - [Warning] Undefined variable $search in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 429
+2025-12-11 13:13:42 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 429
+2025-12-11 13:13:42 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 433
+2025-12-11 13:13:42 - [Warning] Undefined variable $transfers in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 448
+2025-12-11 13:14:43 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 17
+2025-12-11 13:14:43 - [Warning] Undefined variable $stats in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 344
+2025-12-11 13:14:43 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 344
+2025-12-11 13:14:43 - [Warning] Undefined variable $stats in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 352
+2025-12-11 13:14:43 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 352
+2025-12-11 13:14:43 - [Warning] Undefined variable $stats in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 360
+2025-12-11 13:14:43 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 360
+2025-12-11 13:14:43 - [Warning] Undefined variable $stats in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 368
+2025-12-11 13:14:43 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 368
+2025-12-11 13:14:43 - [Warning] Undefined variable $stats in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 376
+2025-12-11 13:14:43 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 376
+2025-12-11 13:14:43 - [Warning] Undefined variable $transfers in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 387
+2025-12-11 13:14:43 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 387
+2025-12-11 13:14:43 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 409
+2025-12-11 13:14:43 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 410
+2025-12-11 13:14:43 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 411
+2025-12-11 13:14:43 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 412
+2025-12-11 13:14:43 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 413
+2025-12-11 13:14:43 - [Warning] Undefined variable $filter_date_from in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 418
+2025-12-11 13:14:43 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 418
+2025-12-11 13:14:43 - [Warning] Undefined variable $filter_date_to in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 422
+2025-12-11 13:14:43 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 422
+2025-12-11 13:14:43 - [Warning] Undefined variable $search in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 429
+2025-12-11 13:14:43 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 429
+2025-12-11 13:14:43 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 433
+2025-12-11 13:14:43 - [Warning] Undefined variable $transfers in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 448
+2025-12-11 13:38:11 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 17
+2025-12-11 13:38:11 - [Warning] Undefined variable $stats in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 344
+2025-12-11 13:38:11 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 344
+2025-12-11 13:38:11 - [Warning] Undefined variable $stats in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 352
+2025-12-11 13:38:11 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 352
+2025-12-11 13:38:11 - [Warning] Undefined variable $stats in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 360
+2025-12-11 13:38:11 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 360
+2025-12-11 13:38:11 - [Warning] Undefined variable $stats in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 368
+2025-12-11 13:38:11 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 368
+2025-12-11 13:38:11 - [Warning] Undefined variable $stats in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 376
+2025-12-11 13:38:11 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 376
+2025-12-11 13:38:11 - [Warning] Undefined variable $transfers in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 387
+2025-12-11 13:38:11 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 387
+2025-12-11 13:38:11 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 409
+2025-12-11 13:38:11 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 410
+2025-12-11 13:38:11 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 411
+2025-12-11 13:38:11 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 412
+2025-12-11 13:38:11 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 413
+2025-12-11 13:38:11 - [Warning] Undefined variable $filter_date_from in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 418
+2025-12-11 13:38:11 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 418
+2025-12-11 13:38:11 - [Warning] Undefined variable $filter_date_to in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 422
+2025-12-11 13:38:11 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 422
+2025-12-11 13:38:11 - [Warning] Undefined variable $search in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 429
+2025-12-11 13:38:11 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 429
+2025-12-11 13:38:11 - [Warning] Undefined variable $filter_status in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 433
+2025-12-11 13:38:11 - [Warning] Undefined variable $transfers in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 448
+2025-12-11 14:59:10 - [Warning] Undefined array key "to_gn_id" in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 674
+2025-12-11 14:59:10 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 674
+2025-12-11 15:51:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-11 15:51:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-11 15:51:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-11 15:51:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-11 15:51:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-12 04:31:21 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-12 04:31:21 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-12 04:31:21 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-12 04:31:21 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-12 04:31:21 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-12 04:32:16 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-12 04:32:16 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-12 04:32:16 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-12 04:32:16 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-12 04:32:16 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-12 04:33:14 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-12 04:33:14 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-12 04:33:14 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-12 04:33:14 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-12 04:33:14 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-12 04:44:20 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:44:20 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:45:24 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:45:24 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:48:40 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:48:40 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:48:40 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/manage_passwords.php on line 103
+2025-12-12 04:48:40 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/users/manage_passwords.php on line 103
+2025-12-12 04:49:02 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:49:02 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:49:23 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:49:23 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:51:37 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:51:37 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:52:59 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:52:59 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:53:31 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:53:31 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:54:40 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:54:40 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:58:03 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:58:03 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 04:59:10 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-12 04:59:10 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-12 04:59:10 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-12 04:59:10 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-12 04:59:10 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-12 05:00:50 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 05:00:50 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 05:01:18 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 05:01:18 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 05:01:35 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 05:01:35 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 05:01:50 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 05:01:50 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 05:03:12 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 05:03:12 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 05:03:21 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 05:03:21 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/includes/header.php on line 361
+2025-12-12 06:18:57 - [Warning] Undefined array key "to_gn_id" in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 690
+2025-12-12 06:18:57 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 690
+2025-12-12 06:20:23 - [Warning] Undefined array key "requested_by_user_id" in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 533
+2025-12-12 06:31:44 - [Warning] Undefined array key "requested_by_user_id" in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 533
+2025-12-12 06:42:20 - [Warning] Undefined array key "requested_by_user_id" in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 479
+2025-12-12 06:42:32 - [Warning] Undefined array key "requested_by_user_id" in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 479
+2025-12-12 06:42:42 - [Warning] Undefined array key "requested_by_user_id" in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 479
+2025-12-12 06:42:51 - [Warning] Undefined array key "requested_by_user_id" in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 479
+2025-12-12 06:45:27 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 748
+2025-12-12 06:45:27 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 748
+2025-12-12 06:45:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 748
+2025-12-12 06:45:27 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 754
+2025-12-12 06:45:27 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 754
+2025-12-12 06:45:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 754
+2025-12-12 06:45:27 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 765
+2025-12-12 06:45:27 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 765
+2025-12-12 06:45:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 765
+2025-12-12 06:45:27 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 767
+2025-12-12 06:45:27 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 767
+2025-12-12 06:45:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 767
+2025-12-12 06:45:27 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 768
+2025-12-12 06:45:27 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 768
+2025-12-12 06:45:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 768
+2025-12-12 06:45:27 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 795
+2025-12-12 06:45:27 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 795
+2025-12-12 06:45:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 795
+2025-12-12 06:45:27 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 801
+2025-12-12 06:45:27 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 801
+2025-12-12 06:45:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 801
+2025-12-12 06:45:27 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 812
+2025-12-12 06:45:27 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 812
+2025-12-12 06:45:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 812
+2025-12-12 06:45:27 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 814
+2025-12-12 06:45:27 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 814
+2025-12-12 06:45:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 814
+2025-12-12 06:45:27 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 815
+2025-12-12 06:45:27 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 815
+2025-12-12 06:45:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 815
+2025-12-12 06:45:27 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 841
+2025-12-12 06:45:27 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 841
+2025-12-12 06:45:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 841
+2025-12-12 06:45:27 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 847
+2025-12-12 06:45:27 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 847
+2025-12-12 06:45:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 847
+2025-12-12 06:45:27 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 858
+2025-12-12 06:45:27 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 858
+2025-12-12 06:45:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 858
+2025-12-12 06:45:27 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 860
+2025-12-12 06:45:27 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 860
+2025-12-12 06:45:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 860
+2025-12-12 06:45:38 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 748
+2025-12-12 06:45:38 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 748
+2025-12-12 06:45:38 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 748
+2025-12-12 06:45:38 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 754
+2025-12-12 06:45:38 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 754
+2025-12-12 06:45:38 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 754
+2025-12-12 06:45:38 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 765
+2025-12-12 06:45:38 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 765
+2025-12-12 06:45:38 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 765
+2025-12-12 06:45:38 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 767
+2025-12-12 06:45:38 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 767
+2025-12-12 06:45:38 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 767
+2025-12-12 06:45:38 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 768
+2025-12-12 06:45:38 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 768
+2025-12-12 06:45:38 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 768
+2025-12-12 06:45:38 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 795
+2025-12-12 06:45:38 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 795
+2025-12-12 06:45:38 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 795
+2025-12-12 06:45:38 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 801
+2025-12-12 06:45:38 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 801
+2025-12-12 06:45:38 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 801
+2025-12-12 06:45:38 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 812
+2025-12-12 06:45:38 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 812
+2025-12-12 06:45:38 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 812
+2025-12-12 06:45:38 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 814
+2025-12-12 06:45:38 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 814
+2025-12-12 06:45:38 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 814
+2025-12-12 06:45:38 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 815
+2025-12-12 06:45:38 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 815
+2025-12-12 06:45:38 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 815
+2025-12-12 06:45:38 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 841
+2025-12-12 06:45:38 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 841
+2025-12-12 06:45:38 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 841
+2025-12-12 06:45:38 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 847
+2025-12-12 06:45:38 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 847
+2025-12-12 06:45:38 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 847
+2025-12-12 06:45:38 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 858
+2025-12-12 06:45:38 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 858
+2025-12-12 06:45:38 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 858
+2025-12-12 06:45:38 - [Warning] Undefined variable $transfer in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 860
+2025-12-12 06:45:38 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 860
+2025-12-12 06:45:38 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 860
+2025-12-12 07:07:08 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 53
+2025-12-12 07:07:08 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 54
+2025-12-12 07:07:08 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 155
+2025-12-12 07:07:08 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 155
+2025-12-12 07:07:08 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 155
+2025-12-12 07:07:08 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 155
+2025-12-12 07:07:08 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 155
+2025-12-12 07:07:08 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 155
+2025-12-12 07:07:08 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 155
+2025-12-12 07:07:08 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 155
+2025-12-12 07:07:08 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 155
+2025-12-12 07:07:08 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 155
+2025-12-12 07:21:10 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 46
+2025-12-12 07:21:10 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:10 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:10 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:10 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:10 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:10 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:10 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:10 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:10 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:10 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:21 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 46
+2025-12-12 07:21:21 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:21 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:21 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:21 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:21 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:21 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:21 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:21 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:21 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:21 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:27 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 46
+2025-12-12 07:21:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 07:21:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 140
+2025-12-12 10:40:22 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/add_family.php on line 327
+2025-12-12 10:40:22 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/users/gn/citizens/add_family.php on line 327
+2025-12-12 10:40:23 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/add_family.php on line 327
+2025-12-12 10:40:23 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/users/gn/citizens/add_family.php on line 327
+2025-12-12 10:40:58 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/add_family.php on line 329
+2025-12-12 10:40:58 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/users/gn/citizens/add_family.php on line 329
+2025-12-12 12:41:23 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/view_family.php on line 116
+2025-12-12 12:41:23 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/users/gn/citizens/view_family.php on line 116
+2025-12-12 12:44:06 - [Warning] include(includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/add_member.php on line 214
+2025-12-12 12:44:06 - [Warning] include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/users/gn/citizens/add_member.php on line 214
+2025-12-12 12:54:30 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 569
+2025-12-12 12:54:30 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 570
+2025-12-12 12:54:30 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 571
+2025-12-12 12:54:30 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 578
+2025-12-12 12:54:30 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-12 12:54:30 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-12 12:58:14 - [Warning] Undefined array key "to_gn_id" in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 690
+2025-12-12 12:58:14 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 690
+2025-12-12 13:08:18 - [Warning] include(includes/header.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/list_families.php on line 342
+2025-12-12 13:08:18 - [Warning] include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/users/gn/citizens/list_families.php on line 342
+2025-12-12 13:08:33 - [Warning] include(includes/header.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/list_families.php on line 342
+2025-12-12 13:08:33 - [Warning] include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/users/gn/citizens/list_families.php on line 342
+2025-12-12 13:08:35 - [Warning] include(includes/header.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/list_families.php on line 342
+2025-12-12 13:08:35 - [Warning] include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/users/gn/citizens/list_families.php on line 342
+2025-12-12 13:08:35 - [Warning] include(includes/header.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/list_families.php on line 342
+2025-12-12 13:08:35 - [Warning] include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/users/gn/citizens/list_families.php on line 342
+2025-12-12 13:08:35 - [Warning] include(includes/header.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/list_families.php on line 342
+2025-12-12 13:08:35 - [Warning] include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/users/gn/citizens/list_families.php on line 342
+2025-12-12 13:09:02 - [Warning] include(includes/header.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/list_families.php on line 342
+2025-12-12 13:09:02 - [Warning] include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/users/gn/citizens/list_families.php on line 342
+2025-12-12 13:38:22 - [Warning] include(includes/header.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/list_families.php on line 342
+2025-12-12 13:38:22 - [Warning] include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/users/gn/citizens/list_families.php on line 342
+2025-12-12 13:48:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-12 13:48:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-12 13:48:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-12 13:48:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-12 13:48:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-12 13:48:38 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-12 13:48:38 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-12 13:48:38 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-12 13:48:38 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-12 13:48:38 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-12 13:48:40 - [Warning] include(../../../includes/header.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 42
+2025-12-12 13:48:40 - [Warning] include(): Failed opening '../../../includes/header.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 42
+2025-12-12 13:48:40 - [Warning] include(../../../includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 52
+2025-12-12 13:48:40 - [Warning] include(): Failed opening '../../../includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 52
+2025-12-12 13:48:42 - [Warning] include(../../../includes/header.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 42
+2025-12-12 13:48:42 - [Warning] include(): Failed opening '../../../includes/header.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 42
+2025-12-12 13:48:42 - [Warning] include(../../../includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 52
+2025-12-12 13:48:42 - [Warning] include(): Failed opening '../../../includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 52
+2025-12-12 13:48:48 - [Warning] include(../../../includes/header.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 42
+2025-12-12 13:48:48 - [Warning] include(): Failed opening '../../../includes/header.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 42
+2025-12-12 13:48:48 - [Warning] include(../../../includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 52
+2025-12-12 13:48:48 - [Warning] include(): Failed opening '../../../includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 52
+2025-12-12 13:49:00 - [Warning] include(../../../includes/header.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 42
+2025-12-12 13:49:00 - [Warning] include(): Failed opening '../../../includes/header.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 42
+2025-12-12 13:49:00 - [Warning] include(../../../includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 52
+2025-12-12 13:49:00 - [Warning] include(): Failed opening '../../../includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 52
+2025-12-12 13:49:10 - [Warning] include(../../../includes/header.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 42
+2025-12-12 13:49:10 - [Warning] include(): Failed opening '../../../includes/header.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 42
+2025-12-12 13:49:10 - [Warning] include(../../../includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/index.php on line 52
+2025-12-12 13:49:10 - [Warning] include(): Failed opening '../../../includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/index.php on line 52
+2025-12-12 13:52:13 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-12 13:52:13 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-12 13:52:13 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-12 13:52:13 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-12 13:52:13 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-12 18:56:14 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 569
+2025-12-12 18:56:14 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 570
+2025-12-12 18:56:14 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 571
+2025-12-12 18:56:14 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 578
+2025-12-12 18:56:14 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-12 18:56:14 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-12 19:14:05 - [Warning] Undefined variable $separated_members in /var/www/html/fpms/users/gn/citizens/view_family.php on line 209
+2025-12-12 19:14:11 - [Warning] Undefined variable $separated_members in /var/www/html/fpms/users/gn/citizens/view_family.php on line 209
+2025-12-13 07:00:35 - [Warning] include(../../includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/search_family.php on line 135
+2025-12-13 07:00:35 - [Warning] include(): Failed opening '../../includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/users/search_family.php on line 135
+2025-12-13 07:01:20 - [Warning] require_once(classes/Auth.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/search_family.php on line 14
+2025-12-13 07:01:39 - [Warning] include(../../includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/search_family.php on line 135
+2025-12-13 07:01:39 - [Warning] include(): Failed opening '../../includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/users/search_family.php on line 135
+2025-12-13 07:51:26 - [Warning] require_once(../../includes/header.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/profile/settings.php on line 368
+2025-12-13 07:52:27 - [Warning] Undefined array key "GN" in /var/www/html/fpms/users/gn/profile/settings.php on line 427
+2025-12-13 07:52:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/profile/settings.php on line 427
+2025-12-13 07:52:27 - [Warning] Undefined array key "Division_Name" in /var/www/html/fpms/users/gn/profile/settings.php on line 435
+2025-12-13 07:52:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/profile/settings.php on line 435
+2025-12-13 07:52:27 - [Warning] Undefined array key "District_Name" in /var/www/html/fpms/users/gn/profile/settings.php on line 439
+2025-12-13 07:52:27 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/profile/settings.php on line 439
+2025-12-13 08:02:12 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-13 08:02:12 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-13 08:02:12 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-13 08:02:12 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-13 08:02:12 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-13 08:14:31 - [Warning] Undefined variable $division_info in /var/www/html/fpms/division/gn_divisions.php on line 486
+2025-12-13 08:14:31 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/division/gn_divisions.php on line 486
+2025-12-13 08:14:31 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 486
+2025-12-13 08:14:31 - [Warning] Undefined variable $division_info in /var/www/html/fpms/division/gn_divisions.php on line 537
+2025-12-13 08:14:31 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/division/gn_divisions.php on line 537
+2025-12-13 08:14:31 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 537
+2025-12-13 08:14:31 - [Warning] Undefined variable $division_info in /var/www/html/fpms/division/gn_divisions.php on line 540
+2025-12-13 08:14:31 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/division/gn_divisions.php on line 540
+2025-12-13 08:14:31 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 540
+2025-12-13 08:14:31 - [Warning] Undefined variable $total_divisions in /var/www/html/fpms/division/gn_divisions.php on line 597
+2025-12-13 08:14:31 - [Deprecated] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 597
+2025-12-13 08:14:31 - [Warning] Undefined variable $page in /var/www/html/fpms/division/gn_divisions.php on line 1285
+2025-12-13 08:15:08 - [Warning] Undefined variable $division_info in /var/www/html/fpms/division/gn_divisions.php on line 486
+2025-12-13 08:15:08 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/division/gn_divisions.php on line 486
+2025-12-13 08:15:08 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 486
+2025-12-13 08:15:08 - [Warning] Undefined variable $division_info in /var/www/html/fpms/division/gn_divisions.php on line 537
+2025-12-13 08:15:08 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/division/gn_divisions.php on line 537
+2025-12-13 08:15:08 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 537
+2025-12-13 08:15:08 - [Warning] Undefined variable $division_info in /var/www/html/fpms/division/gn_divisions.php on line 540
+2025-12-13 08:15:08 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/division/gn_divisions.php on line 540
+2025-12-13 08:15:08 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 540
+2025-12-13 08:15:08 - [Warning] Undefined variable $total_divisions in /var/www/html/fpms/division/gn_divisions.php on line 597
+2025-12-13 08:15:08 - [Deprecated] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 597
+2025-12-13 08:15:08 - [Warning] Undefined variable $page in /var/www/html/fpms/division/gn_divisions.php on line 1285
+2025-12-13 08:15:16 - [Warning] Undefined variable $division_info in /var/www/html/fpms/division/gn_divisions.php on line 486
+2025-12-13 08:15:16 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/division/gn_divisions.php on line 486
+2025-12-13 08:15:16 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 486
+2025-12-13 08:15:16 - [Warning] Undefined variable $division_info in /var/www/html/fpms/division/gn_divisions.php on line 537
+2025-12-13 08:15:16 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/division/gn_divisions.php on line 537
+2025-12-13 08:15:16 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 537
+2025-12-13 08:15:16 - [Warning] Undefined variable $division_info in /var/www/html/fpms/division/gn_divisions.php on line 540
+2025-12-13 08:15:16 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/division/gn_divisions.php on line 540
+2025-12-13 08:15:16 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 540
+2025-12-13 08:15:16 - [Warning] Undefined variable $total_divisions in /var/www/html/fpms/division/gn_divisions.php on line 597
+2025-12-13 08:15:16 - [Deprecated] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 597
+2025-12-13 08:15:16 - [Warning] Undefined variable $page in /var/www/html/fpms/division/gn_divisions.php on line 1285
+2025-12-13 08:23:26 - [Warning] Undefined variable $total_divisions in /var/www/html/fpms/division/gn_divisions.php on line 746
+2025-12-13 08:23:26 - [Deprecated] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 746
+2025-12-13 08:23:26 - [Warning] Undefined variable $page in /var/www/html/fpms/division/gn_divisions.php on line 1445
+2025-12-13 08:25:00 - [Warning] Undefined variable $total_divisions in /var/www/html/fpms/division/gn_divisions.php on line 746
+2025-12-13 08:25:00 - [Deprecated] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 746
+2025-12-13 08:25:00 - [Warning] Undefined variable $page in /var/www/html/fpms/division/gn_divisions.php on line 1445
+2025-12-13 12:24:46 - [Warning] Undefined array key "to_gn_id" in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 695
+2025-12-13 12:24:46 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 695
+2025-12-13 23:15:59 - [Warning] require_once(../classes/Sanitizer.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/search_members.php on line 15
+2025-12-13 23:20:07 - [Warning] require_once(../classes/Sanitizer.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/search_members.php on line 15
+2025-12-13 23:20:10 - [Warning] require_once(../classes/Sanitizer.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/search_members.php on line 15
+2025-12-13 23:20:38 - [Warning] require_once(../classes/Sanitizer.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/search_members.php on line 15
+2025-12-13 23:20:41 - [Warning] require_once(../classes/Sanitizer.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/search_members.php on line 15
+2025-12-13 23:40:49 - [Warning] require_once(../../../classes/ReportGenerator.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/reports/index.php on line 16
+2025-12-13 23:49:53 - [Warning] Undefined array key "GN" in /var/www/html/fpms/users/gn/profile/settings.php on line 427
+2025-12-13 23:49:53 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/profile/settings.php on line 427
+2025-12-13 23:49:53 - [Warning] Undefined array key "Division_Name" in /var/www/html/fpms/users/gn/profile/settings.php on line 435
+2025-12-13 23:49:53 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/profile/settings.php on line 435
+2025-12-13 23:49:53 - [Warning] Undefined array key "District_Name" in /var/www/html/fpms/users/gn/profile/settings.php on line 439
+2025-12-13 23:49:53 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/profile/settings.php on line 439
+2025-12-13 23:50:06 - [Warning] Undefined array key "GN" in /var/www/html/fpms/users/gn/profile/settings.php on line 427
+2025-12-13 23:50:06 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/profile/settings.php on line 427
+2025-12-13 23:50:06 - [Warning] Undefined array key "Division_Name" in /var/www/html/fpms/users/gn/profile/settings.php on line 435
+2025-12-13 23:50:06 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/profile/settings.php on line 435
+2025-12-13 23:50:06 - [Warning] Undefined array key "District_Name" in /var/www/html/fpms/users/gn/profile/settings.php on line 439
+2025-12-13 23:50:06 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/profile/settings.php on line 439
+2025-12-14 00:00:34 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-14 00:00:34 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-14 00:00:34 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-14 00:00:34 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-14 00:00:34 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-14 07:39:38 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-14 07:39:38 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-14 07:39:38 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-14 07:39:38 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-14 07:39:38 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-14 07:39:46 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/division/reports_division.php on line 86
+2025-12-14 07:40:11 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/division/reports_division.php on line 86
+2025-12-14 07:40:13 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/division/reports_division.php on line 86
+2025-12-14 07:40:14 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/division/reports_division.php on line 86
+2025-12-14 07:40:15 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/division/reports_division.php on line 86
+2025-12-14 07:40:15 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/division/reports_division.php on line 86
+2025-12-14 07:40:15 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/division/reports_division.php on line 86
+2025-12-14 07:40:16 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/division/reports_division.php on line 86
+2025-12-14 07:40:16 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/division/reports_division.php on line 86
+2025-12-14 07:40:25 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/division/reports_division.php on line 86
+2025-12-14 07:40:33 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/division/reports_division.php on line 86
+2025-12-14 07:43:46 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/division/reports_division.php on line 86
+2025-12-14 07:52:54 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-14 07:52:54 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-14 07:52:54 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-14 07:52:54 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-14 07:52:54 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-14 08:03:15 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/division/reports_division.php on line 86
+2025-12-14 08:14:24 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/classes/debug_division.php on line 4
+2025-12-14 08:46:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-14 08:46:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-14 08:46:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-14 08:46:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-14 08:46:30 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-14 08:56:31 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-14 08:56:31 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-14 08:56:31 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-14 08:56:31 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-14 08:56:31 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-14 08:57:20 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-14 08:57:20 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-14 08:57:20 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-14 08:57:20 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-14 08:57:20 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-14 08:57:58 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-14 08:57:58 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-14 08:57:58 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-14 08:57:58 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-14 08:57:58 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-14 11:40:18 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/user_activity.php on line 390
+2025-12-14 11:40:18 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/user_activity.php on line 390
+2025-12-14 11:40:18 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/user_activity.php on line 390
+2025-12-14 11:40:18 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/user_activity.php on line 390
+2025-12-14 11:40:18 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/user_activity.php on line 390
+2025-12-14 11:40:26 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/user_activity.php on line 390
+2025-12-14 11:40:26 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/user_activity.php on line 390
+2025-12-14 11:40:26 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/user_activity.php on line 390
+2025-12-14 11:40:26 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/user_activity.php on line 390
+2025-12-14 11:40:26 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/user_activity.php on line 390
+2025-12-14 21:08:44 - [Warning] require_once(config.php): Failed to open stream: No such file or directory in /var/www/html/fpms/classes/Database.php on line 10
+2025-12-14 22:25:27 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 217
+2025-12-14 22:25:27 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 217
+2025-12-14 22:25:27 - [Warning] Undefined variable $families in /var/www/html/fpms/district/view_families.php on line 264
+2025-12-14 22:29:05 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 318
+2025-12-14 22:29:05 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 318
+2025-12-14 22:29:16 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 318
+2025-12-14 22:29:16 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 318
+2025-12-14 22:29:30 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 318
+2025-12-14 22:29:30 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 318
+2025-12-14 22:29:52 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 318
+2025-12-14 22:29:52 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 318
+2025-12-14 22:32:58 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 318
+2025-12-14 22:32:58 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 318
+2025-12-14 22:33:12 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 318
+2025-12-14 22:33:12 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 318
+2025-12-14 22:33:27 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 318
+2025-12-14 22:33:27 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 318
+2025-12-14 22:37:29 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 605
+2025-12-14 22:37:29 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 605
+2025-12-14 22:38:18 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 605
+2025-12-14 22:38:18 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 605
+2025-12-14 22:38:20 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 605
+2025-12-14 22:38:20 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 605
+2025-12-14 22:38:21 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 605
+2025-12-14 22:38:21 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 605
+2025-12-14 22:38:26 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 605
+2025-12-14 22:38:26 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 605
+2025-12-14 22:38:32 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 605
+2025-12-14 22:38:32 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 605
+2025-12-14 22:39:58 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 605
+2025-12-14 22:39:58 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 605
+2025-12-14 22:43:49 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 651
+2025-12-14 22:43:49 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 651
+2025-12-14 22:43:57 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 651
+2025-12-14 22:43:57 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 651
+2025-12-14 22:44:11 - [Warning] Undefined variable $gnOffices in /var/www/html/fpms/district/view_families.php on line 651
+2025-12-14 22:44:11 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/district/view_families.php on line 651
+2025-12-15 11:56:28 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/sync_division_mapping.php on line 10
+2025-12-15 11:57:15 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/sync_division_mapping.php on line 10
+2025-12-15 12:26:41 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/district/family_details.php on line 581
+2025-12-15 12:27:42 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/district/family_details.php on line 581
+2025-12-15 14:05:34 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 569
+2025-12-15 14:05:34 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 570
+2025-12-15 14:05:34 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 571
+2025-12-15 14:05:34 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 578
+2025-12-15 14:05:34 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-15 14:05:34 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-15 14:06:03 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 569
+2025-12-15 14:06:03 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 570
+2025-12-15 14:06:03 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 571
+2025-12-15 14:06:03 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 578
+2025-12-15 14:06:03 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-15 14:06:03 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-15 14:09:02 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 569
+2025-12-15 14:09:02 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 570
+2025-12-15 14:09:02 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 571
+2025-12-15 14:09:02 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 578
+2025-12-15 14:09:02 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-15 14:09:02 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-15 14:54:15 - [Warning] require_once(/var/www/html/fpms/includes/../../config.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/sidebar.php on line 42
+2025-12-15 16:04:17 - [Warning] Undefined array key "to_gn_id" in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 713
+2025-12-15 16:04:17 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 713
+2025-12-15 16:39:03 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 569
+2025-12-15 16:39:03 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 570
+2025-12-15 16:39:03 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 571
+2025-12-15 16:39:03 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 578
+2025-12-15 16:39:03 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-15 16:39:03 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-15 16:42:53 - [Warning] include(../includes/sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 482
+2025-12-15 16:42:53 - [Warning] include(): Failed opening '../includes/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 482
+2025-12-15 16:42:53 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-15 16:42:53 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-15 16:42:53 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 581
+2025-12-15 16:42:53 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 588
+2025-12-15 16:42:53 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 589
+2025-12-15 16:42:53 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 590
+2025-12-15 16:43:16 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-15 16:43:16 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-15 16:43:16 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 581
+2025-12-15 16:43:16 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 588
+2025-12-15 16:43:16 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 589
+2025-12-15 16:43:16 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 590
+2025-12-15 17:23:14 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 272
+2025-12-15 17:23:14 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 273
+2025-12-15 17:23:14 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 274
+2025-12-15 17:23:14 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 521
+2025-12-15 17:23:37 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 272
+2025-12-15 17:23:37 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 273
+2025-12-15 17:23:37 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 274
+2025-12-15 17:23:37 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 521
+2025-12-15 17:26:26 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/users/gn/citizens/approve_transfer.php on line 9
+2025-12-15 17:40:23 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 272
+2025-12-15 17:40:23 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 273
+2025-12-15 17:40:23 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 274
+2025-12-15 17:40:23 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 521
+2025-12-15 17:40:48 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 272
+2025-12-15 17:40:48 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 273
+2025-12-15 17:40:48 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 274
+2025-12-15 17:40:48 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 521
+2025-12-15 17:41:15 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 272
+2025-12-15 17:41:15 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 273
+2025-12-15 17:41:15 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 274
+2025-12-15 17:41:15 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 521
+2025-12-15 17:41:26 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 272
+2025-12-15 17:41:26 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 273
+2025-12-15 17:41:26 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 274
+2025-12-15 17:41:26 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 521
+2025-12-16 08:50:22 - [Warning] Undefined array key "to_gn_id" in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 712
+2025-12-16 08:50:22 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 712
+2025-12-16 08:57:21 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 272
+2025-12-16 08:57:21 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 273
+2025-12-16 08:57:21 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 274
+2025-12-16 08:57:21 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 521
+2025-12-16 08:59:40 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 272
+2025-12-16 08:59:40 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 273
+2025-12-16 08:59:40 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 274
+2025-12-16 08:59:40 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 521
+2025-12-16 09:39:07 - [Warning] Undefined array key "to_gn_id" in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 712
+2025-12-16 09:39:07 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 712
+2025-12-16 09:45:50 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 272
+2025-12-16 09:45:50 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 273
+2025-12-16 09:45:50 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 274
+2025-12-16 09:45:50 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 521
+2025-12-16 09:46:31 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 272
+2025-12-16 09:46:31 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 273
+2025-12-16 09:46:31 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 274
+2025-12-16 09:46:31 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 521
+2025-12-16 23:28:15 - [Warning] require_once(../classes/SubmissionManager.php): Failed to open stream: No such file or directory in /var/www/html/fpms/forms/submissions.php on line 5
+2025-12-17 01:00:17 - [Warning] require_once(../config.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/sidebar.php on line 7
+2025-12-17 01:01:24 - [Warning] require_once(../config.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/sidebar.php on line 7
+2025-12-17 01:01:28 - [Warning] require_once(../config.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/sidebar.php on line 7
+2025-12-17 01:02:10 - [Warning] require_once(../classes/Auth.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/sidebar.php on line 8
+2025-12-17 01:17:06 - [Warning] require_once(../config.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/sidebar.php on line 7
+2025-12-17 01:17:16 - [Warning] require_once(../config.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/sidebar.php on line 7
+2025-12-17 01:18:36 - [Warning] require_once(../config.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/sidebar.php on line 7
+2025-12-17 01:18:37 - [Warning] require_once(../config.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/sidebar.php on line 7
+2025-12-17 01:22:52 - [Warning] require_once(../classes/FamilyManager.php): Failed to open stream: No such file or directory in /var/www/html/fpms/forms/fill.php on line 10
+2025-12-17 01:23:45 - [Warning] require_once(../classes/FamilyManager.php): Failed to open stream: No such file or directory in /var/www/html/fpms/forms/fill.php on line 10
+2025-12-17 01:48:50 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-17 01:48:50 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-17 01:48:50 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 581
+2025-12-17 01:48:50 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 588
+2025-12-17 01:48:50 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 589
+2025-12-17 01:48:50 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 590
+2025-12-17 01:59:41 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-17 01:59:41 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-17 01:59:41 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-17 01:59:41 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-17 01:59:41 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-17 02:00:36 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-17 02:00:36 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-17 02:00:36 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-17 02:00:36 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-17 02:00:36 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-17 02:01:16 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-17 02:01:16 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-17 02:01:16 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-17 02:01:16 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-17 02:01:16 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-17 02:02:12 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 355
+2025-12-17 02:02:12 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 356
+2025-12-17 02:02:12 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 357
+2025-12-17 02:02:12 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 358
+2025-12-17 02:02:12 - [Warning] ini_set(): Session ini settings cannot be changed when a session is active in /var/www/html/fpms/config.php on line 359
+2025-12-17 15:30:08 - [Warning] Array to string conversion in /var/www/html/fpms/forms/family_forms.php on line 848
+2025-12-17 15:31:45 - [Warning] Array to string conversion in /var/www/html/fpms/forms/family_forms.php on line 848
+2025-12-17 15:31:45 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/get_recent_families.php on line 8
+2025-12-17 15:32:08 - [Warning] Array to string conversion in /var/www/html/fpms/forms/family_forms.php on line 848
+2025-12-17 15:32:08 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/get_recent_families.php on line 8
+2025-12-17 15:32:17 - [Warning] Array to string conversion in /var/www/html/fpms/forms/family_forms.php on line 848
+2025-12-17 15:32:17 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/get_recent_families.php on line 8
+2025-12-17 15:32:41 - [Warning] Array to string conversion in /var/www/html/fpms/forms/family_forms.php on line 848
+2025-12-17 15:32:41 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/get_recent_families.php on line 8
+2025-12-18 12:30:57 - [Warning] Undefined array key "user_type" in /var/www/html/fpms/users/manage_passwords.php on line 235
+2025-12-18 12:30:57 - [Warning] Undefined array key "user_type" in /var/www/html/fpms/users/manage_passwords.php on line 243
+2025-12-18 12:30:57 - [Deprecated] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/manage_passwords.php on line 243
+2025-12-18 12:30:57 - [Warning] Undefined array key "user_type" in /var/www/html/fpms/users/manage_passwords.php on line 288
+2025-12-18 12:31:15 - [Warning] Undefined array key "user_type" in /var/www/html/fpms/users/manage_passwords.php on line 235
+2025-12-18 12:31:15 - [Warning] Undefined array key "user_type" in /var/www/html/fpms/users/manage_passwords.php on line 243
+2025-12-18 12:31:15 - [Deprecated] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/manage_passwords.php on line 243
+2025-12-18 12:31:15 - [Warning] Undefined array key "user_type" in /var/www/html/fpms/users/manage_passwords.php on line 288
+2025-12-18 12:36:48 - [Warning] Undefined array key "user_type" in /var/www/html/fpms/users/manage_passwords.php on line 235
+2025-12-18 12:36:48 - [Warning] Undefined array key "user_type" in /var/www/html/fpms/users/manage_passwords.php on line 243
+2025-12-18 12:36:48 - [Deprecated] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/manage_passwords.php on line 243
+2025-12-18 12:36:48 - [Warning] Undefined array key "user_type" in /var/www/html/fpms/users/manage_passwords.php on line 288
+2025-12-18 13:13:59 - [Warning] Undefined array key "total_divisions" in /var/www/html/fpms/admin/districts.php on line 394
+2025-12-18 13:13:59 - [Warning] Undefined array key "total_gn_divisions" in /var/www/html/fpms/admin/districts.php on line 395
+2025-12-18 13:13:59 - [Warning] Undefined array key "total_families" in /var/www/html/fpms/admin/districts.php on line 396
+2025-12-18 13:18:57 - [Warning] Undefined array key "total_divisions" in /var/www/html/fpms/admin/districts.php on line 394
+2025-12-18 13:18:57 - [Warning] Undefined array key "total_gn_divisions" in /var/www/html/fpms/admin/districts.php on line 395
+2025-12-18 13:18:57 - [Warning] Undefined array key "total_families" in /var/www/html/fpms/admin/districts.php on line 396
+2025-12-18 13:19:57 - [Warning] Undefined array key "total_divisions" in /var/www/html/fpms/admin/districts.php on line 394
+2025-12-18 13:19:57 - [Warning] Undefined array key "total_gn_divisions" in /var/www/html/fpms/admin/districts.php on line 395
+2025-12-18 13:19:57 - [Warning] Undefined array key "total_families" in /var/www/html/fpms/admin/districts.php on line 396
+2025-12-18 13:21:07 - [Warning] Undefined array key "total_divisions" in /var/www/html/fpms/admin/districts.php on line 394
+2025-12-18 13:21:07 - [Warning] Undefined array key "total_gn_divisions" in /var/www/html/fpms/admin/districts.php on line 395
+2025-12-18 13:21:07 - [Warning] Undefined array key "total_families" in /var/www/html/fpms/admin/districts.php on line 396
+2025-12-18 13:21:11 - [Warning] Undefined array key "total_divisions" in /var/www/html/fpms/admin/districts.php on line 394
+2025-12-18 13:21:11 - [Warning] Undefined array key "total_gn_divisions" in /var/www/html/fpms/admin/districts.php on line 395
+2025-12-18 13:21:11 - [Warning] Undefined array key "total_families" in /var/www/html/fpms/admin/districts.php on line 396
+2025-12-18 13:23:34 - [Warning] Undefined array key "total_divisions" in /var/www/html/fpms/admin/districts.php on line 389
+2025-12-18 13:23:34 - [Warning] Undefined array key "total_gn_divisions" in /var/www/html/fpms/admin/districts.php on line 390
+2025-12-18 13:23:34 - [Warning] Undefined array key "total_families" in /var/www/html/fpms/admin/districts.php on line 391
+2025-12-18 14:04:50 - [Warning] Undefined variable $stats in /var/www/html/fpms/classes/UserManager.php on line 40
+2025-12-18 14:04:50 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/classes/UserManager.php on line 40
+2025-12-18 14:04:50 - [Warning] Undefined variable $stats in /var/www/html/fpms/classes/UserManager.php on line 66
+2025-12-18 14:04:50 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/classes/UserManager.php on line 66
+2025-12-18 14:04:50 - [Warning] Undefined variable $districts in /var/www/html/fpms/classes/UserManager.php on line 91
+2025-12-18 14:04:50 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/classes/UserManager.php on line 91
+2025-12-18 14:04:50 - [Warning] Undefined variable $districts in /var/www/html/fpms/classes/UserManager.php on line 122
+2025-12-18 14:04:56 - [Warning] Undefined variable $stats in /var/www/html/fpms/classes/UserManager.php on line 40
+2025-12-18 14:04:56 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/classes/UserManager.php on line 40
+2025-12-18 14:04:56 - [Warning] Undefined variable $stats in /var/www/html/fpms/classes/UserManager.php on line 66
+2025-12-18 14:04:56 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/classes/UserManager.php on line 66
+2025-12-18 14:04:56 - [Warning] Undefined variable $districts in /var/www/html/fpms/classes/UserManager.php on line 91
+2025-12-18 14:04:56 - [Warning] foreach() argument must be of type array|object, null given in /var/www/html/fpms/classes/UserManager.php on line 91
+2025-12-18 14:04:56 - [Warning] Undefined variable $districts in /var/www/html/fpms/classes/UserManager.php on line 122
+2025-12-18 15:58:22 - [Warning] Undefined array key "Division_Name" in /var/www/html/fpms/division/gn_divisions.php on line 589
+2025-12-18 15:58:22 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 589
+2025-12-18 15:58:22 - [Warning] Undefined array key "District_Name" in /var/www/html/fpms/division/gn_divisions.php on line 640
+2025-12-18 15:58:22 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 640
+2025-12-18 15:58:22 - [Warning] Undefined array key "Province_Name" in /var/www/html/fpms/division/gn_divisions.php on line 643
+2025-12-18 15:58:22 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 643
+2025-12-18 15:58:22 - [Warning] Undefined array key "Office_Code" in /var/www/html/fpms/division/gn_divisions.php on line 646
+2025-12-18 15:58:22 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 646
+2025-12-18 15:58:22 - [Warning] Undefined variable $total_divisions in /var/www/html/fpms/division/gn_divisions.php on line 696
+2025-12-18 15:58:22 - [Deprecated] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 696
+2025-12-18 15:58:32 - [Warning] Undefined array key "Division_Name" in /var/www/html/fpms/division/gn_divisions.php on line 589
+2025-12-18 15:58:32 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 589
+2025-12-18 15:58:32 - [Warning] Undefined array key "District_Name" in /var/www/html/fpms/division/gn_divisions.php on line 640
+2025-12-18 15:58:32 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 640
+2025-12-18 15:58:32 - [Warning] Undefined array key "Province_Name" in /var/www/html/fpms/division/gn_divisions.php on line 643
+2025-12-18 15:58:32 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 643
+2025-12-18 15:58:32 - [Warning] Undefined array key "Office_Code" in /var/www/html/fpms/division/gn_divisions.php on line 646
+2025-12-18 15:58:32 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 646
+2025-12-18 15:58:32 - [Warning] Undefined variable $total_divisions in /var/www/html/fpms/division/gn_divisions.php on line 696
+2025-12-18 15:58:32 - [Deprecated] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 696
+2025-12-18 16:01:25 - [Warning] Undefined array key "Division_Name" in /var/www/html/fpms/division/gn_divisions.php on line 589
+2025-12-18 16:01:25 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 589
+2025-12-18 16:01:25 - [Warning] Undefined array key "District_Name" in /var/www/html/fpms/division/gn_divisions.php on line 640
+2025-12-18 16:01:25 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 640
+2025-12-18 16:01:25 - [Warning] Undefined array key "Province_Name" in /var/www/html/fpms/division/gn_divisions.php on line 643
+2025-12-18 16:01:25 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 643
+2025-12-18 16:01:25 - [Warning] Undefined array key "Office_Code" in /var/www/html/fpms/division/gn_divisions.php on line 646
+2025-12-18 16:01:25 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 646
+2025-12-18 16:01:25 - [Warning] Undefined variable $total_divisions in /var/www/html/fpms/division/gn_divisions.php on line 696
+2025-12-18 16:01:25 - [Deprecated] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /var/www/html/fpms/division/gn_divisions.php on line 696
+2025-12-18 21:53:16 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 272
+2025-12-18 21:53:16 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 273
+2025-12-18 21:53:16 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 274
+2025-12-18 21:53:16 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 521
+2025-12-18 23:14:30 - [Warning] Array to string conversion in /var/www/html/fpms/forms/family_forms.php on line 848
+2025-12-18 23:14:30 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/get_recent_families.php on line 8
+2025-12-18 23:23:56 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/list_families.php on line 211
+2025-12-18 23:24:36 - [Warning] Array to string conversion in /var/www/html/fpms/forms/family_forms.php on line 848
+2025-12-18 23:24:36 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/get_recent_families.php on line 8
+2025-12-19 00:02:31 - [Warning] Undefined array key "title" in /var/www/html/fpms/forms/view.php on line 43
+2025-12-19 00:02:31 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 43
+2025-12-19 00:02:31 - [Warning] include(../sidebar.php): Failed to open stream: No such file or directory in /var/www/html/fpms/forms/view.php on line 50
+2025-12-19 00:02:31 - [Warning] include(): Failed opening '../sidebar.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/fpms/forms/view.php on line 50
+2025-12-19 00:02:31 - [Warning] Undefined array key "title" in /var/www/html/fpms/forms/view.php on line 53
+2025-12-19 00:02:31 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 53
+2025-12-19 00:02:31 - [Warning] Undefined array key "description" in /var/www/html/fpms/forms/view.php on line 54
+2025-12-19 00:02:31 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 54
+2025-12-19 00:02:31 - [Warning] Undefined array key "created_by" in /var/www/html/fpms/forms/view.php on line 55
+2025-12-19 00:02:31 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 55
+2025-12-19 00:02:31 - [Warning] Undefined array key "label" in /var/www/html/fpms/forms/view.php on line 65
+2025-12-19 00:02:31 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 65
+2025-12-19 00:02:31 - [Warning] Undefined array key "type" in /var/www/html/fpms/forms/view.php on line 66
+2025-12-19 00:02:31 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 66
+2025-12-19 00:03:40 - [Warning] Undefined array key "title" in /var/www/html/fpms/forms/view.php on line 43
+2025-12-19 00:03:40 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 43
+2025-12-19 00:03:40 - [Warning] Undefined array key "title" in /var/www/html/fpms/forms/view.php on line 53
+2025-12-19 00:03:40 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 53
+2025-12-19 00:03:40 - [Warning] Undefined array key "description" in /var/www/html/fpms/forms/view.php on line 54
+2025-12-19 00:03:40 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 54
+2025-12-19 00:03:40 - [Warning] Undefined array key "created_by" in /var/www/html/fpms/forms/view.php on line 55
+2025-12-19 00:03:40 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 55
+2025-12-19 00:03:40 - [Warning] Undefined array key "label" in /var/www/html/fpms/forms/view.php on line 65
+2025-12-19 00:03:40 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 65
+2025-12-19 00:03:40 - [Warning] Undefined array key "type" in /var/www/html/fpms/forms/view.php on line 66
+2025-12-19 00:03:40 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 66
+2025-12-19 00:04:23 - [Warning] Undefined array key "title" in /var/www/html/fpms/forms/view.php on line 43
+2025-12-19 00:04:23 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 43
+2025-12-19 00:04:23 - [Warning] Undefined array key "title" in /var/www/html/fpms/forms/view.php on line 53
+2025-12-19 00:04:23 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 53
+2025-12-19 00:04:23 - [Warning] Undefined array key "description" in /var/www/html/fpms/forms/view.php on line 54
+2025-12-19 00:04:23 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 54
+2025-12-19 00:04:23 - [Warning] Undefined array key "created_by" in /var/www/html/fpms/forms/view.php on line 55
+2025-12-19 00:04:23 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 55
+2025-12-19 00:04:23 - [Warning] Undefined array key "label" in /var/www/html/fpms/forms/view.php on line 65
+2025-12-19 00:04:23 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 65
+2025-12-19 00:04:23 - [Warning] Undefined array key "type" in /var/www/html/fpms/forms/view.php on line 66
+2025-12-19 00:04:23 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 66
+2025-12-19 00:08:49 - [Warning] Undefined array key "title" in /var/www/html/fpms/forms/view.php on line 43
+2025-12-19 00:08:49 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 43
+2025-12-19 00:08:49 - [Warning] Undefined array key "title" in /var/www/html/fpms/forms/view.php on line 53
+2025-12-19 00:08:49 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 53
+2025-12-19 00:08:49 - [Warning] Undefined array key "description" in /var/www/html/fpms/forms/view.php on line 54
+2025-12-19 00:08:49 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 54
+2025-12-19 00:08:49 - [Warning] Undefined array key "created_by" in /var/www/html/fpms/forms/view.php on line 55
+2025-12-19 00:08:49 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 55
+2025-12-19 00:08:49 - [Warning] Undefined array key "label" in /var/www/html/fpms/forms/view.php on line 65
+2025-12-19 00:08:49 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 65
+2025-12-19 00:08:49 - [Warning] Undefined array key "type" in /var/www/html/fpms/forms/view.php on line 66
+2025-12-19 00:08:49 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 66
+2025-12-19 00:23:56 - [Warning] Array to string conversion in /var/www/html/fpms/forms/family_forms.php on line 848
+2025-12-19 00:23:56 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/get_recent_families.php on line 8
+2025-12-19 00:24:22 - [Warning] Array to string conversion in /var/www/html/fpms/forms/family_forms.php on line 848
+2025-12-19 00:24:22 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/get_recent_families.php on line 8
+2025-12-19 00:25:42 - [Warning] Array to string conversion in /var/www/html/fpms/forms/family_forms.php on line 848
+2025-12-19 00:25:42 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/get_recent_families.php on line 8
+2025-12-19 00:25:47 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/search_families.php on line 8
+2025-12-19 00:25:48 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/search_families.php on line 8
+2025-12-19 00:25:51 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/search_families.php on line 8
+2025-12-19 00:25:59 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/search_families.php on line 8
+2025-12-19 00:27:23 - [Warning] Array to string conversion in /var/www/html/fpms/forms/family_forms.php on line 848
+2025-12-19 00:27:24 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/get_recent_families.php on line 8
+2025-12-19 00:48:32 - [Warning] Array to string conversion in /var/www/html/fpms/forms/family_forms.php on line 848
+2025-12-19 00:48:32 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/get_recent_families.php on line 8
+2025-12-19 09:29:24 - [Warning] Undefined variable $formStats in /var/www/html/fpms/includes/sidebar.php on line 429
+2025-12-19 09:29:24 - [Warning] Undefined variable $formStats in /var/www/html/fpms/includes/sidebar.php on line 450
+2025-12-19 09:32:09 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 321
+2025-12-19 09:32:09 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 321
+2025-12-19 09:32:09 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 321
+2025-12-19 09:32:09 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 322
+2025-12-19 09:32:09 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 322
+2025-12-19 09:32:09 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 322
+2025-12-19 09:32:09 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 325
+2025-12-19 09:32:09 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 325
+2025-12-19 09:32:09 - [Deprecated] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 325
+2025-12-19 09:32:09 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 331
+2025-12-19 09:32:09 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 331
+2025-12-19 09:32:09 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 367
+2025-12-19 09:32:09 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 367
+2025-12-19 09:32:09 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 398
+2025-12-19 09:32:09 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 398
+2025-12-19 09:32:09 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 402
+2025-12-19 09:32:09 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 402
+2025-12-19 09:32:09 - [Warning] Undefined variable $currentUrl in /var/www/html/fpms/includes/sidebar.php on line 468
+2025-12-19 09:32:09 - [Deprecated] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 468
+2025-12-19 09:32:09 - [Warning] Undefined variable $currentUrl in /var/www/html/fpms/includes/sidebar.php on line 471
+2025-12-19 09:32:09 - [Deprecated] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 471
+2025-12-19 09:32:09 - [Warning] Undefined variable $currentUrl in /var/www/html/fpms/includes/sidebar.php on line 474
+2025-12-19 09:32:09 - [Deprecated] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 474
+2025-12-19 09:32:09 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 485
+2025-12-19 09:32:09 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 485
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 321
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 321
+2025-12-19 09:34:39 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 321
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 322
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 322
+2025-12-19 09:34:39 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 322
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 325
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 325
+2025-12-19 09:34:39 - [Deprecated] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 325
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 331
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 331
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 367
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 367
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 398
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 398
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 402
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 402
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUrl in /var/www/html/fpms/includes/sidebar.php on line 468
+2025-12-19 09:34:39 - [Deprecated] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 468
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUrl in /var/www/html/fpms/includes/sidebar.php on line 471
+2025-12-19 09:34:39 - [Deprecated] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 471
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUrl in /var/www/html/fpms/includes/sidebar.php on line 474
+2025-12-19 09:34:39 - [Deprecated] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 474
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 485
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 485
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/header.php on line 168
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/header.php on line 168
+2025-12-19 09:34:39 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/includes/header.php on line 168
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 321
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 321
+2025-12-19 09:34:39 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 321
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 322
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 322
+2025-12-19 09:34:39 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 322
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 325
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 325
+2025-12-19 09:34:39 - [Deprecated] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 325
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 331
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 331
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 367
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 367
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 398
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 398
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 402
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 402
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUrl in /var/www/html/fpms/includes/sidebar.php on line 468
+2025-12-19 09:34:39 - [Deprecated] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 468
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUrl in /var/www/html/fpms/includes/sidebar.php on line 471
+2025-12-19 09:34:39 - [Deprecated] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 471
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUrl in /var/www/html/fpms/includes/sidebar.php on line 474
+2025-12-19 09:34:39 - [Deprecated] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 474
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 485
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 485
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 321
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 321
+2025-12-19 09:34:39 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 321
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 322
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 322
+2025-12-19 09:34:39 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 322
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 325
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 325
+2025-12-19 09:34:39 - [Deprecated] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 325
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 331
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 331
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 367
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 367
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 398
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 398
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 402
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 402
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUrl in /var/www/html/fpms/includes/sidebar.php on line 468
+2025-12-19 09:34:39 - [Deprecated] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 468
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUrl in /var/www/html/fpms/includes/sidebar.php on line 471
+2025-12-19 09:34:39 - [Deprecated] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 471
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUrl in /var/www/html/fpms/includes/sidebar.php on line 474
+2025-12-19 09:34:39 - [Deprecated] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /var/www/html/fpms/includes/sidebar.php on line 474
+2025-12-19 09:34:39 - [Warning] Undefined variable $currentUser in /var/www/html/fpms/includes/sidebar.php on line 485
+2025-12-19 09:34:39 - [Warning] Trying to access array offset on value of type null in /var/www/html/fpms/includes/sidebar.php on line 485
+2025-12-19 09:38:47 - [Warning] require_once(../config.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 8
+2025-12-19 09:38:50 - [Warning] require_once(../config.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 8
+2025-12-19 09:38:50 - [Warning] require_once(../config.php): Failed to open stream: No such file or directory in /var/www/html/fpms/includes/header.php on line 8
+2025-12-19 09:43:13 - [Warning] Array to string conversion in /var/www/html/fpms/forms/family_forms.php on line 848
+2025-12-19 09:43:13 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/get_recent_families.php on line 8
+2025-12-20 10:46:35 - [Warning] Array to string conversion in /var/www/html/fpms/forms/family_forms.php on line 848
+2025-12-20 10:46:35 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/get_recent_families.php on line 8
+2025-12-20 10:52:02 - [Warning] Array to string conversion in /var/www/html/fpms/forms/family_forms.php on line 848
+2025-12-20 10:52:02 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/get_recent_families.php on line 8
+2025-12-20 10:52:22 - [Warning] Array to string conversion in /var/www/html/fpms/forms/family_forms.php on line 848
+2025-12-20 10:52:22 - [Notice] session_start(): Ignoring session_start() because a session is already active in /var/www/html/fpms/ajax/get_recent_families.php on line 8
+2025-12-20 11:51:50 - [Warning] Undefined array key "title" in /var/www/html/fpms/forms/view.php on line 43
+2025-12-20 11:51:50 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 43
+2025-12-20 11:51:50 - [Warning] Undefined array key "title" in /var/www/html/fpms/forms/view.php on line 53
+2025-12-20 11:51:50 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 53
+2025-12-20 11:51:50 - [Warning] Undefined array key "description" in /var/www/html/fpms/forms/view.php on line 54
+2025-12-20 11:51:50 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 54
+2025-12-20 11:51:50 - [Warning] Undefined array key "created_by" in /var/www/html/fpms/forms/view.php on line 55
+2025-12-20 11:51:50 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/forms/view.php on line 55
+2025-12-20 14:39:52 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/district/family_details.php on line 581
+2025-12-20 14:40:04 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/district/family_details.php on line 581
+2025-12-20 15:09:57 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 272
+2025-12-20 15:09:57 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 273
+2025-12-20 15:09:57 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 274
+2025-12-20 15:09:57 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 521
+2025-12-20 15:18:17 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-20 15:18:17 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-20 15:18:17 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 581
+2025-12-20 15:18:17 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 588
+2025-12-20 15:18:17 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 589
+2025-12-20 15:18:17 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 590
+2025-12-21 06:21:25 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-21 06:21:25 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-21 06:21:25 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 581
+2025-12-21 06:21:25 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 588
+2025-12-21 06:21:25 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 589
+2025-12-21 06:21:25 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 590
+2025-12-21 06:30:48 - [Warning] Undefined array key "to_gn_id" in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 716
+2025-12-21 06:30:48 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_family.php on line 716
+2025-12-21 07:11:57 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 272
+2025-12-21 07:11:57 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 273
+2025-12-21 07:11:57 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 274
+2025-12-21 07:11:57 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 521
+2025-12-21 07:13:39 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 272
+2025-12-21 07:13:39 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 273
+2025-12-21 07:13:39 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 274
+2025-12-21 07:13:39 - [Deprecated] Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/fpms/users/gn/citizens/transfer_requests.php on line 521
+2025-12-21 10:32:58 - [Deprecated] Implicit conversion from float 689.2 to int loses precision in /var/www/html/fpms/classes/ImageProcessor.php on line 160
+2025-12-21 10:32:58 - [Warning] imagettftext(): Could not find/open font in /var/www/html/fpms/classes/ImageProcessor.php on line 160
+2025-12-21 10:32:58 - [Deprecated] Implicit conversion from float 39.60000000000001 to int loses precision in /var/www/html/fpms/classes/ImageProcessor.php on line 160
+2025-12-21 10:32:58 - [Warning] imagettftext(): Could not find/open font in /var/www/html/fpms/classes/ImageProcessor.php on line 160
+2025-12-21 10:33:06 - [Deprecated] Implicit conversion from float 689.2 to int loses precision in /var/www/html/fpms/classes/ImageProcessor.php on line 160
+2025-12-21 10:33:06 - [Warning] imagettftext(): Could not find/open font in /var/www/html/fpms/classes/ImageProcessor.php on line 160
+2025-12-21 10:33:06 - [Deprecated] Implicit conversion from float 39.60000000000001 to int loses precision in /var/www/html/fpms/classes/ImageProcessor.php on line 160
+2025-12-21 10:33:06 - [Warning] imagettftext(): Could not find/open font in /var/www/html/fpms/classes/ImageProcessor.php on line 160
+2025-12-21 20:31:34 - [Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/district/family_details.php on line 581
+2025-12-22 12:14:59 - [Deprecated] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/view_member.php on line 1838
+2025-12-22 12:15:07 - [Deprecated] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/view_member.php on line 1838
+2025-12-22 12:16:35 - [Deprecated] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/view_member.php on line 1838
+2025-12-22 12:17:48 - [Deprecated] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/view_member.php on line 1838
+2025-12-22 12:19:43 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-22 12:19:43 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-22 12:19:43 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 581
+2025-12-22 12:19:43 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 588
+2025-12-22 12:19:43 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 589
+2025-12-22 12:19:43 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 590
+2025-12-22 12:21:40 - [Deprecated] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/view_member.php on line 1838
+2025-12-22 12:23:02 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 579
+2025-12-22 12:23:02 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 580
+2025-12-22 12:23:02 - [Warning] Undefined array key "living_conditions" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 581
+2025-12-22 12:23:02 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 588
+2025-12-22 12:23:02 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 589
+2025-12-22 12:23:02 - [Warning] Undefined array key "income_category" in /var/www/html/fpms/users/gn/citizens/edit_family.php on line 590
+2025-12-22 12:25:29 - [Deprecated] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fpms/users/gn/citizens/view_member.php on line 1838

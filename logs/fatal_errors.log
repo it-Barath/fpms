@@ -1,0 +1,16 @@
+2025-12-10 06:22:15 - [Fatal Error] Cannot redeclare Auth::logout() in /var/www/html/fpms/classes/Auth.php on line 1009
+2025-12-10 06:26:49 - [Fatal Error] Cannot redeclare Auth::deleteRememberMeCookie() in /var/www/html/fpms/classes/Auth.php on line 1088
+2025-12-10 06:27:01 - [Fatal Error] Cannot redeclare Auth::deleteRememberMeCookie() in /var/www/html/fpms/classes/Auth.php on line 1088
+2025-12-10 06:27:58 - [Fatal Error] Cannot redeclare Auth::clearRememberTokens() in /var/www/html/fpms/classes/Auth.php on line 1140
+2025-12-10 06:28:26 - [Fatal Error] Cannot redeclare Auth::clearRememberTokens() in /var/www/html/fpms/classes/Auth.php on line 1140
+2025-12-14 07:42:40 - [Fatal Error] Cannot declare class Sanitizer, because the name is already in use in /var/www/html/fpms/classes/Sanitizer.php on line 534
+2025-12-14 07:42:42 - [Fatal Error] Cannot declare class Sanitizer, because the name is already in use in /var/www/html/fpms/classes/Sanitizer.php on line 534
+2025-12-14 07:42:42 - [Fatal Error] Cannot declare class Sanitizer, because the name is already in use in /var/www/html/fpms/classes/Sanitizer.php on line 534
+2025-12-14 07:42:42 - [Fatal Error] Cannot declare class Sanitizer, because the name is already in use in /var/www/html/fpms/classes/Sanitizer.php on line 534
+2025-12-16 23:43:05 - [Fatal Error] Cannot declare class FormManager, because the name is already in use in /var/www/html/fpms/classes/SubmissionManager.php on line 2
+2025-12-17 01:16:54 - [Fatal Error] Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /var/www/html/fpms/classes/Auth.php on line 949
+2025-12-17 01:17:01 - [Fatal Error] Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /var/www/html/fpms/classes/Auth.php on line 949
+2025-12-18 13:03:00 - [Fatal Error] Cannot redeclare UserManager::getDivisionalSecretariatsUnderDistrict() in /var/www/html/fpms/classes/UserManager.php on line 334
+2025-12-18 22:11:53 - [Fatal Error] Cannot redeclare UserManager::getAllUsers() in /var/www/html/fpms/classes/UserManager.php on line 1883
+2025-12-22 15:00:04 - [Fatal Error] Cannot redeclare FormManager::getAvailableForms() in /var/www/html/fpms/classes/FormManager.php on line 1288
+2025-12-22 15:00:09 - [Fatal Error] Cannot redeclare FormManager::getAvailableForms() in /var/www/html/fpms/classes/FormManager.php on line 1288

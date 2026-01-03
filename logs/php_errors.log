@@ -1,0 +1,2197 @@
+[09-Dec-2025 22:23:36 Asia/Colombo] Password reset email to: mannar@fpms.lk
+[09-Dec-2025 22:23:36 Asia/Colombo] New password: a7hpFJld#AAh
+[09-Dec-2025 22:29:25 Asia/Colombo] Password reset email to: mannar@fpms.lk
+[09-Dec-2025 22:29:25 Asia/Colombo] New password: ^SkSwRsrc%Th
+[09-Dec-2025 22:41:57 Asia/Colombo] Password reset email to: mannar@fpms.lk
+[09-Dec-2025 22:41:57 Asia/Colombo] New password: nXtc$%^FYknV
+[09-Dec-2025 22:45:17 Asia/Colombo] Password reset email to: mannar@fpms.lk
+[09-Dec-2025 22:45:17 Asia/Colombo] New password: ZnCqAsi06k9P
+[10-Dec-2025 06:22:15 Asia/Colombo] PHP Fatal error:  Cannot redeclare Auth::logout() in /var/www/html/fpms/classes/Auth.php on line 1009
+[10-Dec-2025 06:26:49 Asia/Colombo] PHP Fatal error:  Cannot redeclare Auth::deleteRememberMeCookie() in /var/www/html/fpms/classes/Auth.php on line 1088
+[10-Dec-2025 06:27:01 Asia/Colombo] PHP Fatal error:  Cannot redeclare Auth::deleteRememberMeCookie() in /var/www/html/fpms/classes/Auth.php on line 1088
+[10-Dec-2025 06:27:58 Asia/Colombo] PHP Fatal error:  Cannot redeclare Auth::clearRememberTokens() in /var/www/html/fpms/classes/Auth.php on line 1140
+[10-Dec-2025 06:28:26 Asia/Colombo] PHP Fatal error:  Cannot redeclare Auth::clearRememberTokens() in /var/www/html/fpms/classes/Auth.php on line 1140
+[10-Dec-2025 12:54:41 Asia/Colombo] POST data received: {"family_address":"sdmlkamslkd","members":{"identification_type":"nic","identification_number":"198602002323","full_name":"Barathan KMalanathan","name_with_initials":"Barathan Kamalanathan","gender":"male","date_of_birth":"1988-02-09","ethnicity":"Burgher","religion":"Hindu","mobile_phone":"0706034512","home_phone":"0770080938","email":"syscgaa@gmail.com","relation_to_head":"Self","marital_status":"married","address":"Mannar"}}
+[10-Dec-2025 12:54:41 Asia/Colombo] Processing member identification_type: "nic"
+[10-Dec-2025 12:54:41 Asia/Colombo] Member identification_type is not an array
+[10-Dec-2025 12:54:41 Asia/Colombo] Processing member identification_number: "198602002323"
+[10-Dec-2025 12:54:41 Asia/Colombo] Member identification_number is not an array
+[10-Dec-2025 12:54:41 Asia/Colombo] Processing member full_name: "Barathan KMalanathan"
+[10-Dec-2025 12:54:41 Asia/Colombo] Member full_name is not an array
+[10-Dec-2025 12:54:41 Asia/Colombo] Processing member name_with_initials: "Barathan Kamalanathan"
+[10-Dec-2025 12:54:41 Asia/Colombo] Member name_with_initials is not an array
+[10-Dec-2025 12:54:41 Asia/Colombo] Processing member gender: "male"
+[10-Dec-2025 12:54:41 Asia/Colombo] Member gender is not an array
+[10-Dec-2025 12:54:41 Asia/Colombo] Processing member date_of_birth: "1988-02-09"
+[10-Dec-2025 12:54:41 Asia/Colombo] Member date_of_birth is not an array
+[10-Dec-2025 12:54:41 Asia/Colombo] Processing member ethnicity: "Burgher"
+[10-Dec-2025 12:54:41 Asia/Colombo] Member ethnicity is not an array
+[10-Dec-2025 12:54:41 Asia/Colombo] Processing member religion: "Hindu"
+[10-Dec-2025 12:54:41 Asia/Colombo] Member religion is not an array
+[10-Dec-2025 12:54:41 Asia/Colombo] Processing member mobile_phone: "0706034512"
+[10-Dec-2025 12:54:41 Asia/Colombo] Member mobile_phone is not an array
+[10-Dec-2025 12:54:41 Asia/Colombo] Processing member home_phone: "0770080938"
+[10-Dec-2025 12:54:41 Asia/Colombo] Member home_phone is not an array
+[10-Dec-2025 12:54:41 Asia/Colombo] Processing member email: "syscgaa@gmail.com"
+[10-Dec-2025 12:54:41 Asia/Colombo] Member email is not an array
+[10-Dec-2025 12:54:41 Asia/Colombo] Processing member relation_to_head: "Self"
+[10-Dec-2025 12:54:41 Asia/Colombo] Member relation_to_head is not an array
+[10-Dec-2025 12:54:41 Asia/Colombo] Processing member marital_status: "married"
+[10-Dec-2025 12:54:41 Asia/Colombo] Member marital_status is not an array
+[10-Dec-2025 12:54:41 Asia/Colombo] Processing member address: "Mannar"
+[10-Dec-2025 12:54:41 Asia/Colombo] Member address is not an array
+[10-Dec-2025 12:54:41 Asia/Colombo] No valid members found after processing all members
+[10-Dec-2025 12:54:41 Asia/Colombo] Add Family Error: No valid family members were added. Please check that all required fields are filled for at least one member.
+[10-Dec-2025 12:56:21 Asia/Colombo] POST data received: {"family_address":"sdmlkamslkd","members":{"identification_type":"nic","identification_number":"198602002379","full_name":"Barathan KMalanathan","name_with_initials":"Barathan Kamalanathan","gender":"male","date_of_birth":"1986-07-09","ethnicity":"Tamil","religion":"Hindu","mobile_phone":"0706034512","home_phone":"0770080938","email":"syscgaa@gmail.com","relation_to_head":"Self","marital_status":"single","address":"Mannar"}}
+[10-Dec-2025 12:56:21 Asia/Colombo] Processing member identification_type: "nic"
+[10-Dec-2025 12:56:21 Asia/Colombo] Member identification_type is not an array
+[10-Dec-2025 12:56:21 Asia/Colombo] Processing member identification_number: "198602002379"
+[10-Dec-2025 12:56:21 Asia/Colombo] Member identification_number is not an array
+[10-Dec-2025 12:56:21 Asia/Colombo] Processing member full_name: "Barathan KMalanathan"
+[10-Dec-2025 12:56:21 Asia/Colombo] Member full_name is not an array
+[10-Dec-2025 12:56:21 Asia/Colombo] Processing member name_with_initials: "Barathan Kamalanathan"
+[10-Dec-2025 12:56:21 Asia/Colombo] Member name_with_initials is not an array
+[10-Dec-2025 12:56:21 Asia/Colombo] Processing member gender: "male"
+[10-Dec-2025 12:56:21 Asia/Colombo] Member gender is not an array
+[10-Dec-2025 12:56:21 Asia/Colombo] Processing member date_of_birth: "1986-07-09"
+[10-Dec-2025 12:56:21 Asia/Colombo] Member date_of_birth is not an array
+[10-Dec-2025 12:56:21 Asia/Colombo] Processing member ethnicity: "Tamil"
+[10-Dec-2025 12:56:21 Asia/Colombo] Member ethnicity is not an array
+[10-Dec-2025 12:56:21 Asia/Colombo] Processing member religion: "Hindu"
+[10-Dec-2025 12:56:21 Asia/Colombo] Member religion is not an array
+[10-Dec-2025 12:56:21 Asia/Colombo] Processing member mobile_phone: "0706034512"
+[10-Dec-2025 12:56:21 Asia/Colombo] Member mobile_phone is not an array
+[10-Dec-2025 12:56:21 Asia/Colombo] Processing member home_phone: "0770080938"
+[10-Dec-2025 12:56:21 Asia/Colombo] Member home_phone is not an array
+[10-Dec-2025 12:56:21 Asia/Colombo] Processing member email: "syscgaa@gmail.com"
+[10-Dec-2025 12:56:21 Asia/Colombo] Member email is not an array
+[10-Dec-2025 12:56:21 Asia/Colombo] Processing member relation_to_head: "Self"
+[10-Dec-2025 12:56:21 Asia/Colombo] Member relation_to_head is not an array
+[10-Dec-2025 12:56:21 Asia/Colombo] Processing member marital_status: "single"
+[10-Dec-2025 12:56:21 Asia/Colombo] Member marital_status is not an array
+[10-Dec-2025 12:56:21 Asia/Colombo] Processing member address: "Mannar"
+[10-Dec-2025 12:56:21 Asia/Colombo] Member address is not an array
+[10-Dec-2025 12:56:21 Asia/Colombo] No valid members found after processing all members
+[10-Dec-2025 12:56:21 Asia/Colombo] Add Family Error: No valid family members were added. Please check that all required fields are filled for at least one member.
+[10-Dec-2025 13:03:30 Asia/Colombo] POST data received for family: Array
+(
+    [members] => Array
+        (
+            [0] => Array
+                (
+                    [dummy] => 1
+                )
+
+            [identification_type] => nic
+            [identification_number] => 198602002379
+            [full_name] => Barathan KMalanathan
+            [name_with_initials] => Barathan Kamalanathan
+            [gender] => male
+            [date_of_birth] => 1986-07-09
+            [ethnicity] => Tamil
+            [religion] => Hindu
+            [mobile_phone] => 0706034512
+            [home_phone] => 0770080938
+            [email] => syscgaa@gmail.com
+            [relation_to_head] => Self
+            [marital_status] => single
+            [address] => kdslkfasd laksd lkasd
+        )
+
+    [family_address] => lkdmsflkgsmdfgs 
+)
+
+[10-Dec-2025 13:03:30 Asia/Colombo] Checking members data: exists
+[10-Dec-2025 13:03:30 Asia/Colombo] Members array after reconstruction: Array
+(
+    [0] => Array
+        (
+            [dummy] => 1
+        )
+
+    [identification_type] => nic
+    [identification_number] => 198602002379
+    [full_name] => Barathan KMalanathan
+    [name_with_initials] => Barathan Kamalanathan
+    [gender] => male
+    [date_of_birth] => 1986-07-09
+    [ethnicity] => Tamil
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 0770080938
+    [email] => syscgaa@gmail.com
+    [relation_to_head] => Self
+    [marital_status] => single
+    [address] => kdslkfasd laksd lkasd
+)
+
+[10-Dec-2025 13:03:30 Asia/Colombo] Processing member 0: Array
+(
+    [dummy] => 1
+)
+
+[10-Dec-2025 13:03:30 Asia/Colombo] Member 0 missing required fields
+[10-Dec-2025 13:03:30 Asia/Colombo] Fields present: Array
+(
+    [dummy] => 1
+)
+
+[10-Dec-2025 13:03:30 Asia/Colombo] Processing member identification_type: nic
+[10-Dec-2025 13:03:30 Asia/Colombo] Member identification_type is empty or not an array
+[10-Dec-2025 13:03:30 Asia/Colombo] Processing member identification_number: 198602002379
+[10-Dec-2025 13:03:30 Asia/Colombo] Member identification_number is empty or not an array
+[10-Dec-2025 13:03:30 Asia/Colombo] Processing member full_name: Barathan KMalanathan
+[10-Dec-2025 13:03:30 Asia/Colombo] Member full_name is empty or not an array
+[10-Dec-2025 13:03:30 Asia/Colombo] Processing member name_with_initials: Barathan Kamalanathan
+[10-Dec-2025 13:03:30 Asia/Colombo] Member name_with_initials is empty or not an array
+[10-Dec-2025 13:03:30 Asia/Colombo] Processing member gender: male
+[10-Dec-2025 13:03:30 Asia/Colombo] Member gender is empty or not an array
+[10-Dec-2025 13:03:30 Asia/Colombo] Processing member date_of_birth: 1986-07-09
+[10-Dec-2025 13:03:30 Asia/Colombo] Member date_of_birth is empty or not an array
+[10-Dec-2025 13:03:30 Asia/Colombo] Processing member ethnicity: Tamil
+[10-Dec-2025 13:03:30 Asia/Colombo] Member ethnicity is empty or not an array
+[10-Dec-2025 13:03:30 Asia/Colombo] Processing member religion: Hindu
+[10-Dec-2025 13:03:30 Asia/Colombo] Member religion is empty or not an array
+[10-Dec-2025 13:03:30 Asia/Colombo] Processing member mobile_phone: 0706034512
+[10-Dec-2025 13:03:30 Asia/Colombo] Member mobile_phone is empty or not an array
+[10-Dec-2025 13:03:30 Asia/Colombo] Processing member home_phone: 0770080938
+[10-Dec-2025 13:03:30 Asia/Colombo] Member home_phone is empty or not an array
+[10-Dec-2025 13:03:30 Asia/Colombo] Processing member email: syscgaa@gmail.com
+[10-Dec-2025 13:03:30 Asia/Colombo] Member email is empty or not an array
+[10-Dec-2025 13:03:30 Asia/Colombo] Processing member relation_to_head: Self
+[10-Dec-2025 13:03:30 Asia/Colombo] Member relation_to_head is empty or not an array
+[10-Dec-2025 13:03:30 Asia/Colombo] Processing member marital_status: single
+[10-Dec-2025 13:03:30 Asia/Colombo] Member marital_status is empty or not an array
+[10-Dec-2025 13:03:30 Asia/Colombo] Processing member address: kdslkfasd laksd lkasd
+[10-Dec-2025 13:03:30 Asia/Colombo] Member address is empty or not an array
+[10-Dec-2025 13:03:30 Asia/Colombo] No valid members found after processing all members
+[10-Dec-2025 13:03:30 Asia/Colombo] POST data was: Array
+(
+    [members] => Array
+        (
+            [0] => Array
+                (
+                    [dummy] => 1
+                )
+
+            [identification_type] => nic
+            [identification_number] => 198602002379
+            [full_name] => Barathan KMalanathan
+            [name_with_initials] => Barathan Kamalanathan
+            [gender] => male
+            [date_of_birth] => 1986-07-09
+            [ethnicity] => Tamil
+            [religion] => Hindu
+            [mobile_phone] => 0706034512
+            [home_phone] => 0770080938
+            [email] => syscgaa@gmail.com
+            [relation_to_head] => Self
+            [marital_status] => single
+            [address] => kdslkfasd laksd lkasd
+        )
+
+    [family_address] => lkdmsflkgsmdfgs 
+)
+
+[10-Dec-2025 13:03:30 Asia/Colombo] Add Family Error: No valid family members were added. Please check that all required fields (*) are filled for at least one member.
+[10-Dec-2025 13:03:30 Asia/Colombo] Error trace: #0 {main}
+[10-Dec-2025 13:04:59 Asia/Colombo] POST data received for family: Array
+(
+    [members] => Array
+        (
+            [0] => Array
+                (
+                    [dummy] => 1
+                )
+
+            [identification_type] => nic
+            [identification_number] => 198602002379
+            [full_name] => Barathan KMalanathan
+            [name_with_initials] => Barathan Kamalanathan
+            [gender] => male
+            [date_of_birth] => 1986-07-09
+            [ethnicity] => Tamil
+            [religion] => Hindu
+            [mobile_phone] => 0706034512
+            [home_phone] => 0770080938
+            [email] => syscgaa@gmail.com
+            [relation_to_head] => Self
+            [marital_status] => single
+            [address] => mdlkfmlskdfa
+        )
+
+    [family_address] => lkdmsflkgsmdfgs 
+)
+
+[10-Dec-2025 13:04:59 Asia/Colombo] Checking members data: exists
+[10-Dec-2025 13:04:59 Asia/Colombo] Members array after reconstruction: Array
+(
+    [0] => Array
+        (
+            [dummy] => 1
+        )
+
+    [identification_type] => nic
+    [identification_number] => 198602002379
+    [full_name] => Barathan KMalanathan
+    [name_with_initials] => Barathan Kamalanathan
+    [gender] => male
+    [date_of_birth] => 1986-07-09
+    [ethnicity] => Tamil
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 0770080938
+    [email] => syscgaa@gmail.com
+    [relation_to_head] => Self
+    [marital_status] => single
+    [address] => mdlkfmlskdfa
+)
+
+[10-Dec-2025 13:04:59 Asia/Colombo] Processing member 0: Array
+(
+    [dummy] => 1
+)
+
+[10-Dec-2025 13:04:59 Asia/Colombo] Member 0 missing required fields
+[10-Dec-2025 13:04:59 Asia/Colombo] Fields present: Array
+(
+    [dummy] => 1
+)
+
+[10-Dec-2025 13:04:59 Asia/Colombo] Processing member identification_type: nic
+[10-Dec-2025 13:04:59 Asia/Colombo] Member identification_type is empty or not an array
+[10-Dec-2025 13:04:59 Asia/Colombo] Processing member identification_number: 198602002379
+[10-Dec-2025 13:04:59 Asia/Colombo] Member identification_number is empty or not an array
+[10-Dec-2025 13:04:59 Asia/Colombo] Processing member full_name: Barathan KMalanathan
+[10-Dec-2025 13:04:59 Asia/Colombo] Member full_name is empty or not an array
+[10-Dec-2025 13:04:59 Asia/Colombo] Processing member name_with_initials: Barathan Kamalanathan
+[10-Dec-2025 13:04:59 Asia/Colombo] Member name_with_initials is empty or not an array
+[10-Dec-2025 13:04:59 Asia/Colombo] Processing member gender: male
+[10-Dec-2025 13:04:59 Asia/Colombo] Member gender is empty or not an array
+[10-Dec-2025 13:04:59 Asia/Colombo] Processing member date_of_birth: 1986-07-09
+[10-Dec-2025 13:04:59 Asia/Colombo] Member date_of_birth is empty or not an array
+[10-Dec-2025 13:04:59 Asia/Colombo] Processing member ethnicity: Tamil
+[10-Dec-2025 13:04:59 Asia/Colombo] Member ethnicity is empty or not an array
+[10-Dec-2025 13:04:59 Asia/Colombo] Processing member religion: Hindu
+[10-Dec-2025 13:04:59 Asia/Colombo] Member religion is empty or not an array
+[10-Dec-2025 13:04:59 Asia/Colombo] Processing member mobile_phone: 0706034512
+[10-Dec-2025 13:04:59 Asia/Colombo] Member mobile_phone is empty or not an array
+[10-Dec-2025 13:04:59 Asia/Colombo] Processing member home_phone: 0770080938
+[10-Dec-2025 13:04:59 Asia/Colombo] Member home_phone is empty or not an array
+[10-Dec-2025 13:04:59 Asia/Colombo] Processing member email: syscgaa@gmail.com
+[10-Dec-2025 13:04:59 Asia/Colombo] Member email is empty or not an array
+[10-Dec-2025 13:04:59 Asia/Colombo] Processing member relation_to_head: Self
+[10-Dec-2025 13:04:59 Asia/Colombo] Member relation_to_head is empty or not an array
+[10-Dec-2025 13:04:59 Asia/Colombo] Processing member marital_status: single
+[10-Dec-2025 13:04:59 Asia/Colombo] Member marital_status is empty or not an array
+[10-Dec-2025 13:04:59 Asia/Colombo] Processing member address: mdlkfmlskdfa
+[10-Dec-2025 13:04:59 Asia/Colombo] Member address is empty or not an array
+[10-Dec-2025 13:04:59 Asia/Colombo] No valid members found after processing all members
+[10-Dec-2025 13:04:59 Asia/Colombo] POST data was: Array
+(
+    [members] => Array
+        (
+            [0] => Array
+                (
+                    [dummy] => 1
+                )
+
+            [identification_type] => nic
+            [identification_number] => 198602002379
+            [full_name] => Barathan KMalanathan
+            [name_with_initials] => Barathan Kamalanathan
+            [gender] => male
+            [date_of_birth] => 1986-07-09
+            [ethnicity] => Tamil
+            [religion] => Hindu
+            [mobile_phone] => 0706034512
+            [home_phone] => 0770080938
+            [email] => syscgaa@gmail.com
+            [relation_to_head] => Self
+            [marital_status] => single
+            [address] => mdlkfmlskdfa
+        )
+
+    [family_address] => lkdmsflkgsmdfgs 
+)
+
+[10-Dec-2025 13:04:59 Asia/Colombo] Add Family Error: No valid family members were added. Please check that all required fields (*) are filled for at least one member.
+[10-Dec-2025 13:04:59 Asia/Colombo] Error trace: #0 {main}
+[10-Dec-2025 15:31:25 Asia/Colombo] POST data received: Array
+(
+    [family_address] => ksjndkjanskdja
+    [identification_type] => nic
+    [identification_number] => 860202379V
+    [full_name] => sjfnkjnskjn
+    [name_with_initials] => knkjanksdjfnas
+    [gender] => male
+    [date_of_birth] => 1986-10-10
+    [ethnicity] => Tamil
+    [religion] => Buddhist
+    [mobile_phone] => 0706034512
+    [home_phone] => 0706034512
+    [email] => syscgaa@gmail.com
+    [marital_status] => married
+    [member_address] => mznsdmfjasdajoisjd oija
+)
+
+[10-Dec-2025 15:41:09 Asia/Colombo] POST data received: Array
+(
+    [family_address] => ksjndkjanskdja
+    [identification_type] => nic
+    [identification_number] => 860202379V
+    [full_name] => sjfnkjnskjn
+    [name_with_initials] => knkjanksdjfnas
+    [gender] => male
+    [date_of_birth] => 1986-10-10
+    [ethnicity] => Tamil
+    [religion] => Buddhist
+    [mobile_phone] => 0706034512
+    [home_phone] => 0706034512
+    [email] => syscgaa@gmail.com
+    [marital_status] => married
+    [member_address] => m mn,m,nkj
+)
+
+[10-Dec-2025 15:41:52 Asia/Colombo] POST data received: Array
+(
+    [family_address] => ksjndkjanskdja
+    [identification_type] => nic
+    [identification_number] => 860202354V
+    [full_name] => Vimalanathan
+    [name_with_initials] => Vksjkasd
+    [gender] => male
+    [date_of_birth] => 1967-10-10
+    [ethnicity] => Tamil
+    [religion] => Buddhist
+    [mobile_phone] => 0706034512
+    [home_phone] => 0706034512
+    [email] => syscgaa@gmail.com
+    [marital_status] => married
+    [member_address] => ansdkjfnakjsnd
+)
+
+[10-Dec-2025 15:43:09 Asia/Colombo] POST data received: Array
+(
+    [family_address] => kzjsndkvjas
+    [identification_type] => passport
+    [identification_number] => 198602002379
+    [full_name] => Sukumar
+    [name_with_initials] => jasbdjaf
+    [gender] => male
+    [date_of_birth] => 1997-12-02
+    [ethnicity] => Muslim
+    [religion] => Islam
+    [mobile_phone] => 0706034512
+    [home_phone] => 
+    [email] => syscgaa@gmail.com
+    [marital_status] => married
+    [member_address] => mdnanskdjnfk
+)
+
+[10-Dec-2025 16:27:00 Asia/Colombo] Family list query: SELECT COUNT... FROM families f LEFT JOIN citizens c... WHERE f.gn_id = ?
+[10-Dec-2025 16:27:00 Asia/Colombo] Params: Array
+(
+    [0] => 4-2-3-2-150
+)
+
+[10-Dec-2025 16:27:00 Asia/Colombo] Param types: s
+[10-Dec-2025 16:27:00 Asia/Colombo] Total count: 4, Total pages: 1
+[10-Dec-2025 16:27:00 Asia/Colombo] Main query: SELECT 
+                    f.family_id,
+                    f.family_head_nic,
+                    f.address as family_address,
+                    f.total_members,
+                    f.created_at,
+                    c.full_name as head_name,
+                    c.name_with_initials,
+                    c.gender,
+                    c.date_of_birth
+                  FROM families f
+                  LEFT JOIN citizens c ON f.family_id = c.family_id AND c.relation_to_head = 'Self'
+                  WHERE f.gn_id = ? ORDER BY f.created_at DESC LIMIT ? OFFSET ?
+[10-Dec-2025 16:27:00 Asia/Colombo] Main params: Array
+(
+    [0] => 4-2-3-2-150
+    [1] => 20
+    [2] => 0
+)
+
+[10-Dec-2025 16:27:00 Asia/Colombo] Main param types: sii
+[10-Dec-2025 16:27:00 Asia/Colombo] Number of families found: 4
+[10-Dec-2025 16:27:00 Asia/Colombo] Sample family data: Array
+(
+    [family_id] => 42321210154309
+    [family_head_nic] => 
+    [family_address] => kzjsndkvjas
+    [total_members] => 1
+    [created_at] => 2025-12-10 15:43:09
+    [head_name] => Sukumar
+    [name_with_initials] => jasbdjaf
+    [gender] => male
+    [date_of_birth] => 1997-12-02
+)
+
+[10-Dec-2025 16:27:00 Asia/Colombo] Final families array type: array
+[10-Dec-2025 16:27:00 Asia/Colombo] Is array? Yes
+[10-Dec-2025 16:27:00 Asia/Colombo] Families count: 4
+[10-Dec-2025 16:27:18 Asia/Colombo] Family list query: SELECT COUNT... FROM families f LEFT JOIN citizens c... WHERE f.gn_id = ?
+[10-Dec-2025 16:27:18 Asia/Colombo] Params: Array
+(
+    [0] => 4-2-3-2-150
+)
+
+[10-Dec-2025 16:27:18 Asia/Colombo] Param types: s
+[10-Dec-2025 16:27:18 Asia/Colombo] Total count: 4, Total pages: 1
+[10-Dec-2025 16:27:18 Asia/Colombo] Main query: SELECT 
+                    f.family_id,
+                    f.family_head_nic,
+                    f.address as family_address,
+                    f.total_members,
+                    f.created_at,
+                    c.full_name as head_name,
+                    c.name_with_initials,
+                    c.gender,
+                    c.date_of_birth
+                  FROM families f
+                  LEFT JOIN citizens c ON f.family_id = c.family_id AND c.relation_to_head = 'Self'
+                  WHERE f.gn_id = ? ORDER BY f.created_at DESC LIMIT ? OFFSET ?
+[10-Dec-2025 16:27:18 Asia/Colombo] Main params: Array
+(
+    [0] => 4-2-3-2-150
+    [1] => 20
+    [2] => 0
+)
+
+[10-Dec-2025 16:27:18 Asia/Colombo] Main param types: sii
+[10-Dec-2025 16:27:18 Asia/Colombo] Number of families found: 4
+[10-Dec-2025 16:27:18 Asia/Colombo] Sample family data: Array
+(
+    [family_id] => 42321210154309
+    [family_head_nic] => 
+    [family_address] => kzjsndkvjas
+    [total_members] => 1
+    [created_at] => 2025-12-10 15:43:09
+    [head_name] => Sukumar
+    [name_with_initials] => jasbdjaf
+    [gender] => male
+    [date_of_birth] => 1997-12-02
+)
+
+[10-Dec-2025 16:27:18 Asia/Colombo] Final families array type: array
+[10-Dec-2025 16:27:18 Asia/Colombo] Is array? Yes
+[10-Dec-2025 16:27:18 Asia/Colombo] Families count: 4
+[10-Dec-2025 16:36:26 Asia/Colombo] Total families for GN 4-2-3-2-150: 4
+[10-Dec-2025 16:36:26 Asia/Colombo] Executing query: SELECT 
+                    f.family_id,
+                    f.family_head_nic,
+                    f.address as family_address,
+                    f.total_members,
+                    f.created_at
+                  FROM families f
+                  WHERE f.gn_id = ? ORDER BY f.created_at DESC LIMIT ? OFFSET ?
+[10-Dec-2025 16:36:26 Asia/Colombo] With params: Array
+(
+    [0] => 4-2-3-2-150
+    [1] => 20
+    [2] => 0
+)
+
+[10-Dec-2025 16:36:26 Asia/Colombo] Found 4 families
+[10-Dec-2025 16:38:33 Asia/Colombo] Total families for GN 4-2-3-2-150: 4
+[10-Dec-2025 16:38:33 Asia/Colombo] Executing query: SELECT 
+                    f.family_id,
+                    f.family_head_nic,
+                    f.address as family_address,
+                    f.total_members,
+                    f.created_at
+                  FROM families f
+                  WHERE f.gn_id = ? ORDER BY f.created_at DESC LIMIT ? OFFSET ?
+[10-Dec-2025 16:38:33 Asia/Colombo] With params: Array
+(
+    [0] => 4-2-3-2-150
+    [1] => 20
+    [2] => 0
+)
+
+[10-Dec-2025 16:38:33 Asia/Colombo] Found 4 families
+[10-Dec-2025 17:02:35 Asia/Colombo] Total families for GN 4-2-3-2-150: 4
+[10-Dec-2025 17:02:35 Asia/Colombo] Executing query: SELECT 
+                    f.family_id,
+                    f.family_head_nic,
+                    f.address as family_address,
+                    f.total_members,
+                    f.created_at
+                  FROM families f
+                  WHERE f.gn_id = ? ORDER BY f.created_at DESC LIMIT ? OFFSET ?
+[10-Dec-2025 17:02:35 Asia/Colombo] With params: Array
+(
+    [0] => 4-2-3-2-150
+    [1] => 20
+    [2] => 0
+)
+
+[10-Dec-2025 17:02:35 Asia/Colombo] Found 4 families
+[10-Dec-2025 17:03:31 Asia/Colombo] Total families for GN 4-2-3-2-150: 4
+[10-Dec-2025 17:03:31 Asia/Colombo] Executing query: SELECT 
+                    f.family_id,
+                    f.family_head_nic,
+                    f.address as family_address,
+                    f.total_members,
+                    f.created_at
+                  FROM families f
+                  WHERE f.gn_id = ? ORDER BY f.created_at DESC LIMIT ? OFFSET ?
+[10-Dec-2025 17:03:31 Asia/Colombo] With params: Array
+(
+    [0] => 4-2-3-2-150
+    [1] => 20
+    [2] => 0
+)
+
+[10-Dec-2025 17:03:31 Asia/Colombo] Found 4 families
+[10-Dec-2025 17:04:12 Asia/Colombo] Total families for GN 4-2-3-2-150: 4
+[10-Dec-2025 17:04:12 Asia/Colombo] Executing query: SELECT 
+                    f.family_id,
+                    f.family_head_nic,
+                    f.address as family_address,
+                    f.total_members,
+                    f.created_at
+                  FROM families f
+                  WHERE f.gn_id = ? ORDER BY f.created_at DESC LIMIT ? OFFSET ?
+[10-Dec-2025 17:04:12 Asia/Colombo] With params: Array
+(
+    [0] => 4-2-3-2-150
+    [1] => 20
+    [2] => 0
+)
+
+[10-Dec-2025 17:04:12 Asia/Colombo] Found 4 families
+[10-Dec-2025 17:16:17 Asia/Colombo] Total families for GN 4-2-3-2-150: 4
+[10-Dec-2025 17:16:17 Asia/Colombo] Executing query: SELECT 
+                    f.family_id,
+                    f.family_head_nic,
+                    f.address as family_address,
+                    f.total_members,
+                    f.created_at
+                  FROM families f
+                  WHERE f.gn_id = ? ORDER BY f.created_at DESC LIMIT ? OFFSET ?
+[10-Dec-2025 17:16:17 Asia/Colombo] With params: Array
+(
+    [0] => 4-2-3-2-150
+    [1] => 20
+    [2] => 0
+)
+
+[10-Dec-2025 17:16:17 Asia/Colombo] Found 4 families
+[10-Dec-2025 17:18:10 Asia/Colombo] Total families for GN 4-2-3-2-150: 4
+[10-Dec-2025 17:18:10 Asia/Colombo] Executing query: SELECT 
+                    f.family_id,
+                    f.family_head_nic,
+                    f.address as family_address,
+                    f.total_members,
+                    f.created_at
+                  FROM families f
+                  WHERE f.gn_id = ? ORDER BY f.created_at DESC LIMIT ? OFFSET ?
+[10-Dec-2025 17:18:10 Asia/Colombo] With params: Array
+(
+    [0] => 4-2-3-2-150
+    [1] => 20
+    [2] => 0
+)
+
+[10-Dec-2025 17:18:10 Asia/Colombo] Found 4 families
+[10-Dec-2025 17:18:25 Asia/Colombo] Total families for GN 4-2-3-2-150: 4
+[10-Dec-2025 17:18:25 Asia/Colombo] Executing query: SELECT 
+                    f.family_id,
+                    f.family_head_nic,
+                    f.address as family_address,
+                    f.total_members,
+                    f.created_at
+                  FROM families f
+                  WHERE f.gn_id = ? ORDER BY f.created_at DESC LIMIT ? OFFSET ?
+[10-Dec-2025 17:18:25 Asia/Colombo] With params: Array
+(
+    [0] => 4-2-3-2-150
+    [1] => 20
+    [2] => 0
+)
+
+[10-Dec-2025 17:18:25 Asia/Colombo] Found 4 families
+[10-Dec-2025 17:20:44 Asia/Colombo] Add Member Error: Duplicate entry 'nic-198602002379' for key 'citizens.unique_identification'
+[10-Dec-2025 17:29:27 Asia/Colombo] Total families for GN 4-2-3-2-150: 4
+[10-Dec-2025 17:29:27 Asia/Colombo] Executing query: SELECT 
+                    f.family_id,
+                    f.family_head_nic,
+                    f.address as family_address,
+                    f.total_members,
+                    f.created_at
+                  FROM families f
+                  WHERE f.gn_id = ? ORDER BY f.created_at DESC LIMIT ? OFFSET ?
+[10-Dec-2025 17:29:27 Asia/Colombo] With params: Array
+(
+    [0] => 4-2-3-2-150
+    [1] => 20
+    [2] => 0
+)
+
+[10-Dec-2025 17:29:27 Asia/Colombo] Found 4 families
+[10-Dec-2025 17:31:01 Asia/Colombo] POST data received: Array
+(
+    [family_address] => NO 32/45
+    [identification_type] => nic
+    [identification_number] => 200234234233
+    [full_name] => SuthanKumar
+    [name_with_initials] => S Kumar
+    [gender] => male
+    [date_of_birth] => 1967-12-09
+    [ethnicity] => Tamil
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 0232222235
+    [email] => syscgaa@gmail.com
+    [marital_status] => married
+    [member_address] => Mannar
+)
+
+[10-Dec-2025 17:32:15 Asia/Colombo] POST data received: Array
+(
+    [family_address] => KJASKAS
+    [identification_type] => nic
+    [identification_number] => 198732344342
+    [full_name] => Tharama
+    [name_with_initials] => Barathan Kamalanathan
+    [gender] => male
+    [date_of_birth] => 2000-12-09
+    [ethnicity] => Muslim
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 0232222235
+    [email] => syscgaa@gmail.com
+    [marital_status] => married
+    [member_address] => akdnlkas
+)
+
+[10-Dec-2025 17:32:19 Asia/Colombo] Total families for GN 4-2-3-2-150: 6
+[10-Dec-2025 17:32:19 Asia/Colombo] Executing query: SELECT 
+                    f.family_id,
+                    f.family_head_nic,
+                    f.address as family_address,
+                    f.total_members,
+                    f.created_at
+                  FROM families f
+                  WHERE f.gn_id = ? ORDER BY f.created_at DESC LIMIT ? OFFSET ?
+[10-Dec-2025 17:32:19 Asia/Colombo] With params: Array
+(
+    [0] => 4-2-3-2-150
+    [1] => 20
+    [2] => 0
+)
+
+[10-Dec-2025 17:32:19 Asia/Colombo] Found 6 families
+[10-Dec-2025 17:36:50 Asia/Colombo] Total families for GN 4-2-3-2-150: 6
+[10-Dec-2025 17:36:50 Asia/Colombo] Executing query: SELECT 
+                    f.family_id,
+                    f.family_head_nic,
+                    f.address as family_address,
+                    f.total_members,
+                    f.created_at
+                  FROM families f
+                  WHERE f.gn_id = ? ORDER BY f.created_at DESC LIMIT ? OFFSET ?
+[10-Dec-2025 17:36:50 Asia/Colombo] With params: Array
+(
+    [0] => 4-2-3-2-150
+    [1] => 20
+    [2] => 0
+)
+
+[10-Dec-2025 17:36:50 Asia/Colombo] Found 6 families
+[10-Dec-2025 17:41:25 Asia/Colombo] GN ID from session: 4-2-3-2-150
+[10-Dec-2025 17:41:25 Asia/Colombo] Database connection successful
+[10-Dec-2025 17:41:25 Asia/Colombo] Families table exists
+[10-Dec-2025 17:41:25 Asia/Colombo] Families count for GN 4-2-3-2-150: 6
+[10-Dec-2025 17:41:25 Asia/Colombo] Count query prepared successfully
+[10-Dec-2025 17:41:25 Asia/Colombo] Count query executed successfully
+[10-Dec-2025 17:41:25 Asia/Colombo] Total families: 6
+[10-Dec-2025 17:41:25 Asia/Colombo] Main query: SELECT 
+                    f.family_id,
+                    f.family_head_nic,
+                    f.address as family_address,
+                    f.total_members,
+                    f.created_at
+                  FROM families f
+                  WHERE f.gn_id = ? ORDER BY f.created_at DESC LIMIT ? OFFSET ?
+[10-Dec-2025 17:41:25 Asia/Colombo] Main query prepared successfully
+[10-Dec-2025 17:41:25 Asia/Colombo] Binding params: gn_id=4-2-3-2-150, limit=20, offset=0
+[10-Dec-2025 17:41:25 Asia/Colombo] Query executed successfully
+[10-Dec-2025 17:41:25 Asia/Colombo] Got result object
+[10-Dec-2025 17:41:25 Asia/Colombo] Fetched 6 families
+[10-Dec-2025 17:41:25 Asia/Colombo] Final families variable type: array
+[10-Dec-2025 17:41:25 Asia/Colombo] Is array? Yes
+[10-Dec-2025 17:41:25 Asia/Colombo] Array count: 6
+[10-Dec-2025 18:13:42 Asia/Colombo] POST data received: Array
+(
+    [family_address] => Mannar
+    [identification_type] => nic
+    [identification_number] => 860202379V
+    [full_name] => Tharama
+    [name_with_initials] => Barathan Kamalanathan
+    [gender] => male
+    [date_of_birth] => 1986-10-12
+    [ethnicity] => Tamil
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 
+    [email] => syscgaa@gmail.com
+    [marital_status] => married
+    [member_address] => kjnkdsjfna
+)
+
+[10-Dec-2025 22:10:16 Asia/Colombo] POST data received: Array
+(
+    [family_address] => Main street 
+    [identification_type] => passport
+    [identification_number] => N6876872632
+    [full_name] => T. Kokila
+    [name_with_initials] => T. Kokila
+    [gender] => female
+    [date_of_birth] => 1967-10-20
+    [ethnicity] => Tamil
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 
+    [email] => syscgaa@gmail.com
+    [marital_status] => 
+    [member_address] => Mannar
+)
+
+[11-Dec-2025 10:36:54 Asia/Colombo] POST data received: Array
+(
+    [family_address] => No 34, Moor street 
+    [identification_type] => nic
+    [identification_number] => 200434343223
+    [full_name] => Joicy
+    [name_with_initials] => S.D. Joicy
+    [gender] => male
+    [date_of_birth] => 1986-12-03
+    [ethnicity] => Tamil
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 0770080345
+    [email] => syscgaa@gmail.com
+    [marital_status] => married
+    [member_address] => Uppukulam north
+)
+
+[11-Dec-2025 10:42:21 Asia/Colombo] Add Member Error: Duplicate entry 'nic-854545678V' for key 'citizens.unique_identification'
+[11-Dec-2025 13:10:23 Asia/Colombo] Transfer Requests Error: Unknown column 'Division_Code' in 'where clause'
+[11-Dec-2025 13:13:42 Asia/Colombo] Transfer Requests Error: Unknown column 'Division_Code' in 'where clause'
+[11-Dec-2025 13:14:43 Asia/Colombo] Transfer Requests Error: Unknown column 'Division_Code' in 'where clause'
+[11-Dec-2025 13:38:11 Asia/Colombo] Transfer Requests Error: Unknown column 'Division_Code' in 'where clause'
+[11-Dec-2025 14:03:18 Asia/Colombo] Transfer Requests Error: Illegal mix of collations (utf8mb4_0900_ai_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='
+[11-Dec-2025 14:03:53 Asia/Colombo] Transfer Requests Error: Illegal mix of collations (utf8mb4_0900_ai_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='
+[11-Dec-2025 14:07:51 Asia/Colombo] Transfer Requests Error: Illegal mix of collations (utf8mb4_0900_ai_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='
+[11-Dec-2025 14:09:14 Asia/Colombo] Transfer Requests Error: Illegal mix of collations (utf8mb4_0900_ai_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='
+[11-Dec-2025 14:24:20 Asia/Colombo] Transfer Requests Error: Illegal mix of collations (utf8mb4_0900_ai_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='
+[11-Dec-2025 14:37:44 Asia/Colombo] Transfer Requests Error: Illegal mix of collations (utf8mb4_0900_ai_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='
+[12-Dec-2025 05:12:49 Asia/Colombo] Transfer Requests Error: Illegal mix of collations (utf8mb4_0900_ai_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='
+[12-Dec-2025 05:14:11 Asia/Colombo] Transfer Requests Error: Illegal mix of collations (utf8mb4_0900_ai_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='
+[12-Dec-2025 05:16:06 Asia/Colombo] Transfer Requests Error: Illegal mix of collations (utf8mb4_0900_ai_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='
+[12-Dec-2025 05:34:59 Asia/Colombo] Transfer Requests Error: Illegal mix of collations (utf8mb4_0900_ai_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='
+[12-Dec-2025 05:37:54 Asia/Colombo] Transfer Requests Error: Illegal mix of collations (utf8mb4_0900_ai_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='
+[12-Dec-2025 05:44:16 Asia/Colombo] Transfer Requests Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[12-Dec-2025 05:44:27 Asia/Colombo] Transfer Requests Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[12-Dec-2025 05:45:37 Asia/Colombo] Transfer Requests Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[12-Dec-2025 05:46:28 Asia/Colombo] Transfer Requests Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[12-Dec-2025 05:50:22 Asia/Colombo] Transfer Requests Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+Trace: #0 /var/www/html/fpms/users/gn/citizens/transfer_requests.php(208): mysqli->prepare()
+#1 {main}
+[12-Dec-2025 06:15:07 Asia/Colombo] POST data received: Array
+(
+    [family_address] => Mannar
+    [identification_type] => nic
+    [identification_number] => 198626336663
+    [full_name] => Good family
+    [name_with_initials] => G. Family
+    [gender] => male
+    [date_of_birth] => 1967-10-12
+    [ethnicity] => Sinhala
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 
+    [email] => syscgaa@gmail.com
+    [marital_status] => married
+    [member_address] => jhjhbjhbjh
+)
+
+[12-Dec-2025 06:30:45 Asia/Colombo] Transfer query error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[12-Dec-2025 06:33:44 Asia/Colombo] Transfer query error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[12-Dec-2025 06:33:58 Asia/Colombo] Transfer query error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[12-Dec-2025 06:34:07 Asia/Colombo] Transfer query error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[12-Dec-2025 06:45:27 Asia/Colombo] Transfer query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '// ADD THIS LINE
+            f.address,
+            f.family_head_nic,
+      ' at line 15
+Query: SELECT 
+            th.transfer_id,
+            th.family_id,
+            th.from_gn_id,
+            th.to_gn_id,
+            th.transfer_reason,
+            th.transfer_notes,
+            th.request_date,
+            th.approval_date,
+            th.rejection_date,
+            th.completed_date,
+            th.current_status,
+            th.rejection_reason,
+            th.completion_notes,
+            th.requested_by_user_id,  // ADD THIS LINE
+            f.address,
+            f.family_head_nic,
+            f.total_members,
+            f.gn_id as current_family_gn,
+            (SELECT full_name FROM citizens 
+             WHERE identification_number = f.family_head_nic
+             AND identification_type = 'nic' 
+             LIMIT 1) as head_name,
+            u1.username as requested_by_name,
+            u1.office_name as requested_by_office,
+            u2.username as approved_by_name,
+            u3.username as completed_by_name,
+            from_gn.GN as from_gn_name,
+            from_gn.Division_Name as from_division,
+            from_gn.District_Name as from_district,
+            to_gn.GN as to_gn_name,
+            to_gn.Division_Name as to_division,
+            to_gn.District_Name as to_district
+         FROM transfer_history th
+         JOIN families f ON th.family_id = f.family_id
+         JOIN users u1 ON th.requested_by_user_id = u1.user_id
+         LEFT JOIN users u2 ON th.approved_by_user_id = u2.user_id
+         LEFT JOIN users u3 ON th.completed_by_user_id = u3.user_id
+         LEFT JOIN mobile_service.fix_work_station from_gn ON th.from_gn_id = from_gn.GN_ID COLLATE utf8mb4_unicode_ci
+         LEFT JOIN mobile_service.fix_work_station to_gn ON th.to_gn_id = to_gn.GN_ID COLLATE utf8mb4_unicode_ci
+         WHERE 1=1 AND (th.from_gn_id = ? OR th.to_gn_id = ?) ORDER BY th.request_date DESC
+[12-Dec-2025 06:45:38 Asia/Colombo] Transfer query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '// ADD THIS LINE
+            f.address,
+            f.family_head_nic,
+      ' at line 15
+Query: SELECT 
+            th.transfer_id,
+            th.family_id,
+            th.from_gn_id,
+            th.to_gn_id,
+            th.transfer_reason,
+            th.transfer_notes,
+            th.request_date,
+            th.approval_date,
+            th.rejection_date,
+            th.completed_date,
+            th.current_status,
+            th.rejection_reason,
+            th.completion_notes,
+            th.requested_by_user_id,  // ADD THIS LINE
+            f.address,
+            f.family_head_nic,
+            f.total_members,
+            f.gn_id as current_family_gn,
+            (SELECT full_name FROM citizens 
+             WHERE identification_number = f.family_head_nic
+             AND identification_type = 'nic' 
+             LIMIT 1) as head_name,
+            u1.username as requested_by_name,
+            u1.office_name as requested_by_office,
+            u2.username as approved_by_name,
+            u3.username as completed_by_name,
+            from_gn.GN as from_gn_name,
+            from_gn.Division_Name as from_division,
+            from_gn.District_Name as from_district,
+            to_gn.GN as to_gn_name,
+            to_gn.Division_Name as to_division,
+            to_gn.District_Name as to_district
+         FROM transfer_history th
+         JOIN families f ON th.family_id = f.family_id
+         JOIN users u1 ON th.requested_by_user_id = u1.user_id
+         LEFT JOIN users u2 ON th.approved_by_user_id = u2.user_id
+         LEFT JOIN users u3 ON th.completed_by_user_id = u3.user_id
+         LEFT JOIN mobile_service.fix_work_station from_gn ON th.from_gn_id = from_gn.GN_ID COLLATE utf8mb4_unicode_ci
+         LEFT JOIN mobile_service.fix_work_station to_gn ON th.to_gn_id = to_gn.GN_ID COLLATE utf8mb4_unicode_ci
+         WHERE 1=1 AND (th.from_gn_id = ? OR th.to_gn_id = ?) ORDER BY th.request_date DESC
+[12-Dec-2025 12:21:42 Asia/Colombo] User gn_4-2-3-2-150 attempting to add family at GN 4-2-3-2-150
+[12-Dec-2025 12:21:42 Asia/Colombo] Add Family Error for user gn_4-2-3-2-150: Please correct the following errors:
+
+• Family address: Family address is required
+• Identification type: Identification type is required
+• Identification number: Identification number is required
+• Full name: Full name is required
+• Name with initials: Name with initials is required
+• Gender: Gender is required
+• Date of birth: Date of birth is required
+[12-Dec-2025 12:22:24 Asia/Colombo] User gn_4-2-3-2-150 attempting to add family at GN 4-2-3-2-150
+[12-Dec-2025 12:22:24 Asia/Colombo] Add Family Error for user gn_4-2-3-2-150: Please correct the following errors:
+
+• Family address: Family address is required
+• Identification type: Identification type is required
+• Identification number: Identification number is required
+• Full name: Full name is required
+• Name with initials: Name with initials is required
+• Gender: Gender is required
+• Date of birth: Date of birth is required
+[12-Dec-2025 12:22:44 Asia/Colombo] User gn_4-2-3-2-150 attempting to add family at GN 4-2-3-2-150
+[12-Dec-2025 12:22:44 Asia/Colombo] Add Family Error for user gn_4-2-3-2-150: Please correct the following errors:
+
+• Family address: Family address is required
+• Identification type: Identification type is required
+• Identification number: Identification number is required
+• Full name: Full name is required
+• Name with initials: Name with initials is required
+• Gender: Gender is required
+• Date of birth: Date of birth is required
+[12-Dec-2025 12:29:01 Asia/Colombo] Form data received: Array
+(
+)
+
+[12-Dec-2025 12:29:01 Asia/Colombo] family_address: empty
+[12-Dec-2025 12:29:01 Asia/Colombo] identification_type: empty
+[12-Dec-2025 12:29:01 Asia/Colombo] identification_number: empty
+[12-Dec-2025 12:29:01 Asia/Colombo] full_name: empty
+[12-Dec-2025 12:29:01 Asia/Colombo] name_with_initials: empty
+[12-Dec-2025 12:29:01 Asia/Colombo] gender: empty
+[12-Dec-2025 12:29:01 Asia/Colombo] date_of_birth: empty
+[12-Dec-2025 12:29:01 Asia/Colombo] Validation error: family_address is empty
+[12-Dec-2025 12:29:01 Asia/Colombo] Validation error: identification_type is empty
+[12-Dec-2025 12:29:01 Asia/Colombo] Validation error: identification_number is empty
+[12-Dec-2025 12:29:01 Asia/Colombo] Validation error: full_name is empty
+[12-Dec-2025 12:29:01 Asia/Colombo] Validation error: name_with_initials is empty
+[12-Dec-2025 12:29:01 Asia/Colombo] Validation error: gender is empty
+[12-Dec-2025 12:29:01 Asia/Colombo] Validation error: date_of_birth is empty
+[12-Dec-2025 12:29:01 Asia/Colombo] Validation errors: Array
+(
+    [family_address] => Family address is required
+    [identification_type] => Identification type is required
+    [identification_number] => Identification number is required
+    [full_name] => Full name is required
+    [name_with_initials] => Name with initials is required
+    [gender] => Gender is required
+    [date_of_birth] => Date of birth is required
+)
+
+[12-Dec-2025 12:29:01 Asia/Colombo] Add Family Error: Please correct the following errors:
+
+• Family address: Family address is required
+• Identification type: Identification type is required
+• Identification number: Identification number is required
+• Full name: Full name is required
+• Name with initials: Name with initials is required
+• Gender: Gender is required
+• Date of birth: Date of birth is required
+[12-Dec-2025 12:29:33 Asia/Colombo] Form data received: Array
+(
+)
+
+[12-Dec-2025 12:29:33 Asia/Colombo] family_address: empty
+[12-Dec-2025 12:29:33 Asia/Colombo] identification_type: empty
+[12-Dec-2025 12:29:33 Asia/Colombo] identification_number: empty
+[12-Dec-2025 12:29:33 Asia/Colombo] full_name: empty
+[12-Dec-2025 12:29:33 Asia/Colombo] name_with_initials: empty
+[12-Dec-2025 12:29:33 Asia/Colombo] gender: empty
+[12-Dec-2025 12:29:33 Asia/Colombo] date_of_birth: empty
+[12-Dec-2025 12:29:33 Asia/Colombo] Validation error: family_address is empty
+[12-Dec-2025 12:29:33 Asia/Colombo] Validation error: identification_type is empty
+[12-Dec-2025 12:29:33 Asia/Colombo] Validation error: identification_number is empty
+[12-Dec-2025 12:29:33 Asia/Colombo] Validation error: full_name is empty
+[12-Dec-2025 12:29:33 Asia/Colombo] Validation error: name_with_initials is empty
+[12-Dec-2025 12:29:33 Asia/Colombo] Validation error: gender is empty
+[12-Dec-2025 12:29:33 Asia/Colombo] Validation error: date_of_birth is empty
+[12-Dec-2025 12:29:33 Asia/Colombo] Validation errors: Array
+(
+    [family_address] => Family address is required
+    [identification_type] => Identification type is required
+    [identification_number] => Identification number is required
+    [full_name] => Full name is required
+    [name_with_initials] => Name with initials is required
+    [gender] => Gender is required
+    [date_of_birth] => Date of birth is required
+)
+
+[12-Dec-2025 12:29:33 Asia/Colombo] Add Family Error: Please correct the following errors:
+
+• Family address: Family address is required
+• Identification type: Identification type is required
+• Identification number: Identification number is required
+• Full name: Full name is required
+• Name with initials: Name with initials is required
+• Gender: Gender is required
+• Date of birth: Date of birth is required
+[12-Dec-2025 12:29:37 Asia/Colombo] Form data received: Array
+(
+)
+
+[12-Dec-2025 12:29:37 Asia/Colombo] family_address: empty
+[12-Dec-2025 12:29:37 Asia/Colombo] identification_type: empty
+[12-Dec-2025 12:29:37 Asia/Colombo] identification_number: empty
+[12-Dec-2025 12:29:37 Asia/Colombo] full_name: empty
+[12-Dec-2025 12:29:37 Asia/Colombo] name_with_initials: empty
+[12-Dec-2025 12:29:37 Asia/Colombo] gender: empty
+[12-Dec-2025 12:29:37 Asia/Colombo] date_of_birth: empty
+[12-Dec-2025 12:29:37 Asia/Colombo] Validation error: family_address is empty
+[12-Dec-2025 12:29:37 Asia/Colombo] Validation error: identification_type is empty
+[12-Dec-2025 12:29:37 Asia/Colombo] Validation error: identification_number is empty
+[12-Dec-2025 12:29:37 Asia/Colombo] Validation error: full_name is empty
+[12-Dec-2025 12:29:37 Asia/Colombo] Validation error: name_with_initials is empty
+[12-Dec-2025 12:29:37 Asia/Colombo] Validation error: gender is empty
+[12-Dec-2025 12:29:37 Asia/Colombo] Validation error: date_of_birth is empty
+[12-Dec-2025 12:29:37 Asia/Colombo] Validation errors: Array
+(
+    [family_address] => Family address is required
+    [identification_type] => Identification type is required
+    [identification_number] => Identification number is required
+    [full_name] => Full name is required
+    [name_with_initials] => Name with initials is required
+    [gender] => Gender is required
+    [date_of_birth] => Date of birth is required
+)
+
+[12-Dec-2025 12:29:37 Asia/Colombo] Add Family Error: Please correct the following errors:
+
+• Family address: Family address is required
+• Identification type: Identification type is required
+• Identification number: Identification number is required
+• Full name: Full name is required
+• Name with initials: Name with initials is required
+• Gender: Gender is required
+• Date of birth: Date of birth is required
+[12-Dec-2025 12:29:44 Asia/Colombo] Form data received: Array
+(
+)
+
+[12-Dec-2025 12:29:44 Asia/Colombo] family_address: empty
+[12-Dec-2025 12:29:44 Asia/Colombo] identification_type: empty
+[12-Dec-2025 12:29:44 Asia/Colombo] identification_number: empty
+[12-Dec-2025 12:29:44 Asia/Colombo] full_name: empty
+[12-Dec-2025 12:29:44 Asia/Colombo] name_with_initials: empty
+[12-Dec-2025 12:29:44 Asia/Colombo] gender: empty
+[12-Dec-2025 12:29:44 Asia/Colombo] date_of_birth: empty
+[12-Dec-2025 12:29:44 Asia/Colombo] Validation error: family_address is empty
+[12-Dec-2025 12:29:44 Asia/Colombo] Validation error: identification_type is empty
+[12-Dec-2025 12:29:44 Asia/Colombo] Validation error: identification_number is empty
+[12-Dec-2025 12:29:44 Asia/Colombo] Validation error: full_name is empty
+[12-Dec-2025 12:29:44 Asia/Colombo] Validation error: name_with_initials is empty
+[12-Dec-2025 12:29:44 Asia/Colombo] Validation error: gender is empty
+[12-Dec-2025 12:29:44 Asia/Colombo] Validation error: date_of_birth is empty
+[12-Dec-2025 12:29:44 Asia/Colombo] Validation errors: Array
+(
+    [family_address] => Family address is required
+    [identification_type] => Identification type is required
+    [identification_number] => Identification number is required
+    [full_name] => Full name is required
+    [name_with_initials] => Name with initials is required
+    [gender] => Gender is required
+    [date_of_birth] => Date of birth is required
+)
+
+[12-Dec-2025 12:29:44 Asia/Colombo] Add Family Error: Please correct the following errors:
+
+• Family address: Family address is required
+• Identification type: Identification type is required
+• Identification number: Identification number is required
+• Full name: Full name is required
+• Name with initials: Name with initials is required
+• Gender: Gender is required
+• Date of birth: Date of birth is required
+[12-Dec-2025 12:30:45 Asia/Colombo] Form data received: Array
+(
+)
+
+[12-Dec-2025 12:30:45 Asia/Colombo] family_address: empty
+[12-Dec-2025 12:30:45 Asia/Colombo] identification_type: empty
+[12-Dec-2025 12:30:45 Asia/Colombo] identification_number: empty
+[12-Dec-2025 12:30:45 Asia/Colombo] full_name: empty
+[12-Dec-2025 12:30:45 Asia/Colombo] name_with_initials: empty
+[12-Dec-2025 12:30:45 Asia/Colombo] gender: empty
+[12-Dec-2025 12:30:45 Asia/Colombo] date_of_birth: empty
+[12-Dec-2025 12:30:45 Asia/Colombo] Validation error: family_address is empty
+[12-Dec-2025 12:30:45 Asia/Colombo] Validation error: identification_type is empty
+[12-Dec-2025 12:30:45 Asia/Colombo] Validation error: identification_number is empty
+[12-Dec-2025 12:30:45 Asia/Colombo] Validation error: full_name is empty
+[12-Dec-2025 12:30:45 Asia/Colombo] Validation error: name_with_initials is empty
+[12-Dec-2025 12:30:45 Asia/Colombo] Validation error: gender is empty
+[12-Dec-2025 12:30:45 Asia/Colombo] Validation error: date_of_birth is empty
+[12-Dec-2025 12:30:45 Asia/Colombo] Validation errors: Array
+(
+    [family_address] => Family address is required
+    [identification_type] => Identification type is required
+    [identification_number] => Identification number is required
+    [full_name] => Full name is required
+    [name_with_initials] => Name with initials is required
+    [gender] => Gender is required
+    [date_of_birth] => Date of birth is required
+)
+
+[12-Dec-2025 12:30:45 Asia/Colombo] Add Family Error: Please correct the following errors:
+
+• Family address: Family address is required
+• Identification type: Identification type is required
+• Identification number: Identification number is required
+• Full name: Full name is required
+• Name with initials: Name with initials is required
+• Gender: Gender is required
+• Date of birth: Date of birth is required
+[12-Dec-2025 12:32:43 Asia/Colombo] Form data received: Array
+(
+    [family_address] => Mannar
+    [identification_type] => nic
+    [identification_number] => 198626336663
+    [full_name] => Good family
+    [name_with_initials] => G. Family
+    [gender] => male
+    [date_of_birth] => 2025-11-11
+    [ethnicity] => Tamil
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 0706034512
+    [email] => syscgaa@gmail.com
+    [marital_status] => single
+    [member_address] => jhjhbjhbjh
+)
+
+[12-Dec-2025 12:32:43 Asia/Colombo] family_address: Mannar
+[12-Dec-2025 12:32:43 Asia/Colombo] identification_type: nic
+[12-Dec-2025 12:32:43 Asia/Colombo] identification_number: 198626336663
+[12-Dec-2025 12:32:43 Asia/Colombo] full_name: Good family
+[12-Dec-2025 12:32:43 Asia/Colombo] name_with_initials: G. Family
+[12-Dec-2025 12:32:43 Asia/Colombo] gender: male
+[12-Dec-2025 12:32:43 Asia/Colombo] date_of_birth: 2025-11-11
+[12-Dec-2025 12:32:43 Asia/Colombo] Validation errors: Array
+(
+    [confirm_minor] => Family head is under 18. Please confirm to proceed.
+)
+
+[12-Dec-2025 12:32:43 Asia/Colombo] Add Family Error: Please correct the following errors:
+
+• Confirm minor: Family head is under 18. Please confirm to proceed.
+[12-Dec-2025 12:37:40 Asia/Colombo] Form data received: Array
+(
+    [family_address] => Mannar
+    [identification_type] => nic
+    [identification_number] => 198626336663
+    [full_name] => Good family
+    [name_with_initials] => G. Family
+    [gender] => male
+    [date_of_birth] => 1978-11-11
+    [ethnicity] => Tamil
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 0706034512
+    [email] => syscgaa@gmail.com
+    [marital_status] => single
+    [member_address] => jhjhbjhbjh
+)
+
+[12-Dec-2025 12:37:40 Asia/Colombo] family_address: Mannar
+[12-Dec-2025 12:37:40 Asia/Colombo] identification_type: nic
+[12-Dec-2025 12:37:40 Asia/Colombo] identification_number: 198626336663
+[12-Dec-2025 12:37:40 Asia/Colombo] full_name: Good family
+[12-Dec-2025 12:37:40 Asia/Colombo] name_with_initials: G. Family
+[12-Dec-2025 12:37:40 Asia/Colombo] gender: male
+[12-Dec-2025 12:37:40 Asia/Colombo] date_of_birth: 1978-11-11
+[12-Dec-2025 12:37:40 Asia/Colombo] Checking duplicate ID: nic, 198626336663
+[12-Dec-2025 12:37:40 Asia/Colombo] Add Family Error: This identification number already exists in the system.
+[12-Dec-2025 12:37:54 Asia/Colombo] Form data received: Array
+(
+    [family_address] => Mannar
+    [identification_type] => nic
+    [identification_number] => 198626336434
+    [full_name] => Good family
+    [name_with_initials] => G. Family
+    [gender] => male
+    [date_of_birth] => 1978-11-11
+    [ethnicity] => Tamil
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 0706034512
+    [email] => syscgaa@gmail.com
+    [marital_status] => single
+    [member_address] => jhjhbjhbjh
+)
+
+[12-Dec-2025 12:37:54 Asia/Colombo] family_address: Mannar
+[12-Dec-2025 12:37:54 Asia/Colombo] identification_type: nic
+[12-Dec-2025 12:37:54 Asia/Colombo] identification_number: 198626336434
+[12-Dec-2025 12:37:54 Asia/Colombo] full_name: Good family
+[12-Dec-2025 12:37:54 Asia/Colombo] name_with_initials: G. Family
+[12-Dec-2025 12:37:54 Asia/Colombo] gender: male
+[12-Dec-2025 12:37:54 Asia/Colombo] date_of_birth: 1978-11-11
+[12-Dec-2025 12:37:54 Asia/Colombo] Checking duplicate ID: nic, 198626336434
+[12-Dec-2025 12:37:54 Asia/Colombo] Inserting family with ID: 42321212123754
+[12-Dec-2025 12:37:54 Asia/Colombo] Inserting citizen: Good family, ID: 198626336434
+[12-Dec-2025 12:37:54 Asia/Colombo] Family registered successfully: 42321212123754
+[12-Dec-2025 12:45:51 Asia/Colombo] Add Member Error: Duplicate entry 'nic-876038898V' for key 'citizens.unique_identification'
+[12-Dec-2025 14:34:51 Asia/Colombo] Form data received: Array
+(
+    [family_address] => Final update
+    [identification_type] => nic
+    [identification_number] => 198653422233343
+    [full_name] => Final Message
+    [name_with_initials] => Message
+    [gender] => male
+    [date_of_birth] => 1949-11-11
+    [ethnicity] => Tamil
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 0770034512
+    [email] => syscgaa@gmail.com
+    [marital_status] => single
+    [member_address] => Mannar
+)
+
+[12-Dec-2025 14:34:51 Asia/Colombo] family_address: Final update
+[12-Dec-2025 14:34:51 Asia/Colombo] identification_type: nic
+[12-Dec-2025 14:34:51 Asia/Colombo] identification_number: 198653422233343
+[12-Dec-2025 14:34:51 Asia/Colombo] full_name: Final Message
+[12-Dec-2025 14:34:51 Asia/Colombo] name_with_initials: Message
+[12-Dec-2025 14:34:51 Asia/Colombo] gender: male
+[12-Dec-2025 14:34:51 Asia/Colombo] date_of_birth: 1949-11-11
+[12-Dec-2025 14:34:51 Asia/Colombo] Validation errors: Array
+(
+    [identification_number] => Invalid NIC format. Use 9 digits with V/X or 12 digits
+)
+
+[12-Dec-2025 14:34:51 Asia/Colombo] Add Family Error: Please correct the following errors:
+
+• Identification number: Invalid NIC format. Use 9 digits with V/X or 12 digits
+[12-Dec-2025 14:35:10 Asia/Colombo] Form data received: Array
+(
+    [family_address] => Final update
+    [identification_type] => nic
+    [identification_number] => 198602002364
+    [full_name] => Final Message
+    [name_with_initials] => Message
+    [gender] => male
+    [date_of_birth] => 1949-11-11
+    [ethnicity] => Tamil
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 0770034512
+    [email] => syscgaa@gmail.com
+    [marital_status] => single
+    [member_address] => Mannar
+)
+
+[12-Dec-2025 14:35:10 Asia/Colombo] family_address: Final update
+[12-Dec-2025 14:35:10 Asia/Colombo] identification_type: nic
+[12-Dec-2025 14:35:10 Asia/Colombo] identification_number: 198602002364
+[12-Dec-2025 14:35:10 Asia/Colombo] full_name: Final Message
+[12-Dec-2025 14:35:10 Asia/Colombo] name_with_initials: Message
+[12-Dec-2025 14:35:10 Asia/Colombo] gender: male
+[12-Dec-2025 14:35:10 Asia/Colombo] date_of_birth: 1949-11-11
+[12-Dec-2025 14:35:10 Asia/Colombo] Checking duplicate ID: nic, 198602002364
+[12-Dec-2025 14:35:10 Asia/Colombo] Inserting family with ID: 42321212143510
+[12-Dec-2025 14:35:10 Asia/Colombo] Inserting citizen: Final Message, ID: 198602002364
+[12-Dec-2025 14:35:10 Asia/Colombo] Family registered successfully: 42321212143510
+[12-Dec-2025 14:45:29 Asia/Colombo] Form data received: Array
+(
+    [family_address] => Will Be care
+    [identification_type] => postal
+    [identification_number] => 870303478V
+    [full_name] => Final thinkking
+    [name_with_initials] => Kamla
+    [gender] => female
+    [date_of_birth] => 1967-12-02
+    [ethnicity] => Tamil
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 0770034512
+    [email] => syscgaa@gmail.com
+    [marital_status] => single
+    [member_address] => Will be final thing.
+)
+
+[12-Dec-2025 14:45:29 Asia/Colombo] family_address: Will Be care
+[12-Dec-2025 14:45:29 Asia/Colombo] identification_type: postal
+[12-Dec-2025 14:45:29 Asia/Colombo] identification_number: 870303478V
+[12-Dec-2025 14:45:29 Asia/Colombo] full_name: Final thinkking
+[12-Dec-2025 14:45:29 Asia/Colombo] name_with_initials: Kamla
+[12-Dec-2025 14:45:29 Asia/Colombo] gender: female
+[12-Dec-2025 14:45:29 Asia/Colombo] date_of_birth: 1967-12-02
+[12-Dec-2025 14:45:29 Asia/Colombo] Checking duplicate ID: postal, 870303478V
+[12-Dec-2025 14:45:29 Asia/Colombo] Inserting family with ID: 42321212144529
+[12-Dec-2025 14:45:29 Asia/Colombo] Inserting citizen: Final thinkking, ID: 870303478V
+[12-Dec-2025 14:45:29 Asia/Colombo] Family registered successfully: 42321212144529
+[12-Dec-2025 19:14:05 Asia/Colombo] View Family Error: Invalid JSON text in argument 1 to function json_extract: "Invalid value." at position 0.
+[12-Dec-2025 19:14:11 Asia/Colombo] View Family Error: Invalid JSON text in argument 1 to function json_extract: "Invalid value." at position 0.
+[13-Dec-2025 07:51:26 Asia/Colombo] Settings System Error: Unknown column 'Division_Code' in 'field list'
+[13-Dec-2025 07:52:27 Asia/Colombo] Settings System Error: Unknown column 'Division_Code' in 'field list'
+[13-Dec-2025 08:14:31 Asia/Colombo] GN Divisions System Error: Unknown column 'Division_Code' in 'where clause'
+[13-Dec-2025 08:15:08 Asia/Colombo] GN Divisions System Error: Unknown column 'Division_Code' in 'where clause'
+[13-Dec-2025 08:15:16 Asia/Colombo] GN Divisions System Error: Unknown column 'Division_Code' in 'where clause'
+[13-Dec-2025 08:23:26 Asia/Colombo] Office Code: Mannar Town
+[13-Dec-2025 08:23:26 Asia/Colombo] User Type: division
+[13-Dec-2025 08:23:26 Asia/Colombo] Tables in ref_db:
+[13-Dec-2025 08:23:26 Asia/Colombo] - admin_users
+[13-Dec-2025 08:23:26 Asia/Colombo] - audit_logs
+[13-Dec-2025 08:23:26 Asia/Colombo] - citizen_education
+[13-Dec-2025 08:23:26 Asia/Colombo] - citizen_employment
+[13-Dec-2025 08:23:26 Asia/Colombo] - citizen_health
+[13-Dec-2025 08:23:26 Asia/Colombo] - citizen_land
+[13-Dec-2025 08:23:26 Asia/Colombo] - citizens
+[13-Dec-2025 08:23:26 Asia/Colombo] - families
+[13-Dec-2025 08:23:26 Asia/Colombo] - family_members
+[13-Dec-2025 08:23:26 Asia/Colombo] - family_profile.fix_work_station
+[13-Dec-2025 08:23:26 Asia/Colombo] - feedback
+[13-Dec-2025 08:23:26 Asia/Colombo] - fix_work_station
+[13-Dec-2025 08:23:26 Asia/Colombo] - mobile_services
+[13-Dec-2025 08:23:26 Asia/Colombo] - password_reset_tokens
+[13-Dec-2025 08:23:26 Asia/Colombo] - project_assignments
+[13-Dec-2025 08:23:26 Asia/Colombo] - projects
+[13-Dec-2025 08:23:26 Asia/Colombo] - public_feedback
+[13-Dec-2025 08:23:26 Asia/Colombo] - public_records
+[13-Dec-2025 08:23:26 Asia/Colombo] - public_services
+[13-Dec-2025 08:23:26 Asia/Colombo] - service_assignments
+[13-Dec-2025 08:23:26 Asia/Colombo] - service_provider_details
+[13-Dec-2025 08:23:26 Asia/Colombo] - service_providers
+[13-Dec-2025 08:23:26 Asia/Colombo] - service_tasks
+[13-Dec-2025 08:23:26 Asia/Colombo] - services
+[13-Dec-2025 08:23:26 Asia/Colombo] - user_activities
+[13-Dec-2025 08:23:26 Asia/Colombo] - user_work_stations
+[13-Dec-2025 08:23:26 Asia/Colombo] - users
+[13-Dec-2025 08:23:26 Asia/Colombo] Columns in fix_work_station:
+[13-Dec-2025 08:23:26 Asia/Colombo] - no (int)
+[13-Dec-2025 08:23:26 Asia/Colombo] - Province_Name (varchar(13))
+[13-Dec-2025 08:23:26 Asia/Colombo] - District_Name (varchar(32))
+[13-Dec-2025 08:23:26 Asia/Colombo] - Division_Name (varchar(64))
+[13-Dec-2025 08:23:26 Asia/Colombo] - Bank_Zone (varchar(64))
+[13-Dec-2025 08:23:26 Asia/Colombo] - GN (varchar(64))
+[13-Dec-2025 08:23:26 Asia/Colombo] - GN_ID (varchar(13))
+[13-Dec-2025 08:23:26 Asia/Colombo] Sample row keys: no, Province_Name, District_Name, Division_Name, Bank_Zone, GN, GN_ID
+[13-Dec-2025 08:23:26 Asia/Colombo] GN Divisions System Error: Unknown column 'Division_Code' in 'where clause'
+[13-Dec-2025 08:25:00 Asia/Colombo] Office Code: Mannar Town
+[13-Dec-2025 08:25:00 Asia/Colombo] User Type: division
+[13-Dec-2025 08:25:00 Asia/Colombo] Tables in ref_db:
+[13-Dec-2025 08:25:00 Asia/Colombo] - admin_users
+[13-Dec-2025 08:25:00 Asia/Colombo] - audit_logs
+[13-Dec-2025 08:25:00 Asia/Colombo] - citizen_education
+[13-Dec-2025 08:25:00 Asia/Colombo] - citizen_employment
+[13-Dec-2025 08:25:00 Asia/Colombo] - citizen_health
+[13-Dec-2025 08:25:00 Asia/Colombo] - citizen_land
+[13-Dec-2025 08:25:00 Asia/Colombo] - citizens
+[13-Dec-2025 08:25:00 Asia/Colombo] - families
+[13-Dec-2025 08:25:00 Asia/Colombo] - family_members
+[13-Dec-2025 08:25:00 Asia/Colombo] - family_profile.fix_work_station
+[13-Dec-2025 08:25:00 Asia/Colombo] - feedback
+[13-Dec-2025 08:25:00 Asia/Colombo] - fix_work_station
+[13-Dec-2025 08:25:00 Asia/Colombo] - mobile_services
+[13-Dec-2025 08:25:00 Asia/Colombo] - password_reset_tokens
+[13-Dec-2025 08:25:00 Asia/Colombo] - project_assignments
+[13-Dec-2025 08:25:00 Asia/Colombo] - projects
+[13-Dec-2025 08:25:00 Asia/Colombo] - public_feedback
+[13-Dec-2025 08:25:00 Asia/Colombo] - public_records
+[13-Dec-2025 08:25:00 Asia/Colombo] - public_services
+[13-Dec-2025 08:25:00 Asia/Colombo] - service_assignments
+[13-Dec-2025 08:25:00 Asia/Colombo] - service_provider_details
+[13-Dec-2025 08:25:00 Asia/Colombo] - service_providers
+[13-Dec-2025 08:25:00 Asia/Colombo] - service_tasks
+[13-Dec-2025 08:25:00 Asia/Colombo] - services
+[13-Dec-2025 08:25:00 Asia/Colombo] - user_activities
+[13-Dec-2025 08:25:00 Asia/Colombo] - user_work_stations
+[13-Dec-2025 08:25:00 Asia/Colombo] - users
+[13-Dec-2025 08:25:00 Asia/Colombo] Columns in fix_work_station:
+[13-Dec-2025 08:25:00 Asia/Colombo] - no (int)
+[13-Dec-2025 08:25:00 Asia/Colombo] - Province_Name (varchar(13))
+[13-Dec-2025 08:25:00 Asia/Colombo] - District_Name (varchar(32))
+[13-Dec-2025 08:25:00 Asia/Colombo] - Division_Name (varchar(64))
+[13-Dec-2025 08:25:00 Asia/Colombo] - Bank_Zone (varchar(64))
+[13-Dec-2025 08:25:00 Asia/Colombo] - GN (varchar(64))
+[13-Dec-2025 08:25:00 Asia/Colombo] - GN_ID (varchar(13))
+[13-Dec-2025 08:25:00 Asia/Colombo] Sample row keys: no, Province_Name, District_Name, Division_Name, Bank_Zone, GN, GN_ID
+[13-Dec-2025 08:25:00 Asia/Colombo] GN Divisions System Error: Unknown column 'Division_Code' in 'where clause'
+[13-Dec-2025 23:49:53 Asia/Colombo] Settings System Error: Unknown column 'Division_Code' in 'field list'
+[13-Dec-2025 23:50:06 Asia/Colombo] Settings System Error: Unknown column 'Division_Code' in 'field list'
+[14-Dec-2025 07:39:46 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 07:40:11 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 07:40:13 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 07:40:14 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 07:40:15 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 07:40:15 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 07:40:15 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 07:40:16 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 07:40:16 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 07:40:25 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 07:40:33 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 07:42:40 Asia/Colombo] PHP Fatal error:  Cannot declare class Sanitizer, because the name is already in use in /var/www/html/fpms/classes/Sanitizer.php on line 534
+[14-Dec-2025 07:42:42 Asia/Colombo] PHP Fatal error:  Cannot declare class Sanitizer, because the name is already in use in /var/www/html/fpms/classes/Sanitizer.php on line 534
+[14-Dec-2025 07:42:42 Asia/Colombo] PHP Fatal error:  Cannot declare class Sanitizer, because the name is already in use in /var/www/html/fpms/classes/Sanitizer.php on line 534
+[14-Dec-2025 07:42:42 Asia/Colombo] PHP Fatal error:  Cannot declare class Sanitizer, because the name is already in use in /var/www/html/fpms/classes/Sanitizer.php on line 534
+[14-Dec-2025 07:43:46 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 08:03:15 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 08:06:08 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 08:06:22 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 08:10:03 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 08:10:12 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 08:10:14 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 08:10:18 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 08:10:22 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 08:10:24 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 08:10:27 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 08:10:32 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 08:10:39 Asia/Colombo] No GN divisions found for division code: Mannar Town
+[14-Dec-2025 21:43:51 Asia/Colombo] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /var/www/html/fpms/classes/Database.php:324
+Stack trace:
+#0 /var/www/html/fpms/classes/Database.php(324): mysqli->close()
+#1 /var/www/html/fpms/classes/Database.php(338): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in /var/www/html/fpms/classes/Database.php on line 324
+[15-Dec-2025 14:04:27 Asia/Colombo] Form data received: Array
+(
+    [family_address] => Mannar District Secretariat,
+Madhawachiya -  Thaimannar High way
+    [identification_type] => nic
+    [identification_number] => 19860202367V
+    [full_name] => Mary Malar
+    [name_with_initials] => M. Malar
+    [gender] => male
+    [date_of_birth] => 1976-12-04
+    [ethnicity] => Tamil
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 0232222235
+    [email] => syscgaa@gmail.com
+    [marital_status] => married
+    [member_address] => Mannar District Secretariat,
+New address
+)
+
+[15-Dec-2025 14:04:27 Asia/Colombo] family_address: Mannar District Secretariat,
+Madhawachiya -  Thaimannar High way
+[15-Dec-2025 14:04:27 Asia/Colombo] identification_type: nic
+[15-Dec-2025 14:04:27 Asia/Colombo] identification_number: 19860202367V
+[15-Dec-2025 14:04:27 Asia/Colombo] full_name: Mary Malar
+[15-Dec-2025 14:04:27 Asia/Colombo] name_with_initials: M. Malar
+[15-Dec-2025 14:04:27 Asia/Colombo] gender: male
+[15-Dec-2025 14:04:27 Asia/Colombo] date_of_birth: 1976-12-04
+[15-Dec-2025 14:04:27 Asia/Colombo] Validation errors: Array
+(
+    [identification_number] => Invalid NIC format. Use 9 digits with V/X or 12 digits
+)
+
+[15-Dec-2025 14:04:27 Asia/Colombo] Add Family Error: Please correct the following errors:
+
+• Identification number: Invalid NIC format. Use 9 digits with V/X or 12 digits
+[15-Dec-2025 14:04:41 Asia/Colombo] Form data received: Array
+(
+    [family_address] => Mannar District Secretariat,
+Madhawachiya -  Thaimannar High way
+    [identification_type] => nic
+    [identification_number] => 860202367V
+    [full_name] => Mary Malar
+    [name_with_initials] => M. Malar
+    [gender] => male
+    [date_of_birth] => 1976-12-04
+    [ethnicity] => Tamil
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 0232222235
+    [email] => syscgaa@gmail.com
+    [marital_status] => married
+    [member_address] => Mannar District Secretariat,
+New address
+)
+
+[15-Dec-2025 14:04:41 Asia/Colombo] family_address: Mannar District Secretariat,
+Madhawachiya -  Thaimannar High way
+[15-Dec-2025 14:04:41 Asia/Colombo] identification_type: nic
+[15-Dec-2025 14:04:41 Asia/Colombo] identification_number: 860202367V
+[15-Dec-2025 14:04:41 Asia/Colombo] full_name: Mary Malar
+[15-Dec-2025 14:04:41 Asia/Colombo] name_with_initials: M. Malar
+[15-Dec-2025 14:04:41 Asia/Colombo] gender: male
+[15-Dec-2025 14:04:41 Asia/Colombo] date_of_birth: 1976-12-04
+[15-Dec-2025 14:04:41 Asia/Colombo] Checking duplicate ID: nic, 860202367V
+[15-Dec-2025 14:04:41 Asia/Colombo] Inserting family with ID: 42321215140441
+[15-Dec-2025 14:04:41 Asia/Colombo] Inserting citizen: Mary Malar, ID: 860202367V
+[15-Dec-2025 14:04:42 Asia/Colombo] Family registered successfully: 42321215140441
+[15-Dec-2025 14:25:32 Asia/Colombo] Form data received: Array
+(
+    [family_address] => New street
+    [identification_type] => postal
+    [identification_number] => 23423423
+    [full_name] => Sunil Vimal
+    [name_with_initials] => S.M. Vimal
+    [gender] => male
+    [date_of_birth] => 1985-12-03
+    [ethnicity] => Tamil
+    [religion] => Hindu
+    [mobile_phone] => 0232222235
+    [home_phone] => 0232222235
+    [email] => ictmannar@gmail.com
+    [marital_status] => married
+    [member_address] => Mannar District Secretariat,
+Madhawachiya -  Thaimannar High way
+)
+
+[15-Dec-2025 14:25:32 Asia/Colombo] family_address: New street
+[15-Dec-2025 14:25:32 Asia/Colombo] identification_type: postal
+[15-Dec-2025 14:25:32 Asia/Colombo] identification_number: 23423423
+[15-Dec-2025 14:25:32 Asia/Colombo] full_name: Sunil Vimal
+[15-Dec-2025 14:25:32 Asia/Colombo] name_with_initials: S.M. Vimal
+[15-Dec-2025 14:25:32 Asia/Colombo] gender: male
+[15-Dec-2025 14:25:32 Asia/Colombo] date_of_birth: 1985-12-03
+[15-Dec-2025 14:25:32 Asia/Colombo] Checking duplicate ID: postal, 23423423
+[15-Dec-2025 14:25:32 Asia/Colombo] Inserting family with ID: 42321215142532
+[15-Dec-2025 14:25:32 Asia/Colombo] Inserting citizen: Sunil Vimal, ID: 23423423
+[15-Dec-2025 14:25:32 Asia/Colombo] Family registered successfully: 42321215142532
+[15-Dec-2025 14:57:20 Asia/Colombo] Form data received: Array
+(
+    [family_address] => Smaller
+    [identification_type] => nic
+    [identification_number] => 780303478V
+    [full_name] => Asdfafsd
+    [name_with_initials] => A.D.sdfasdas
+    [gender] => male
+    [date_of_birth] => 1967-12-09
+    [ethnicity] => Sinhala
+    [religion] => Hindu
+    [mobile_phone] => 0232222235
+    [home_phone] => 0770034512
+    [email] => ictmannar@gmail.com
+    [marital_status] => single
+    [member_address] => uhdiug sdfiuisd
+Mannar
+)
+
+[15-Dec-2025 14:57:20 Asia/Colombo] family_address: Smaller
+[15-Dec-2025 14:57:20 Asia/Colombo] identification_type: nic
+[15-Dec-2025 14:57:20 Asia/Colombo] identification_number: 780303478V
+[15-Dec-2025 14:57:20 Asia/Colombo] full_name: Asdfafsd
+[15-Dec-2025 14:57:20 Asia/Colombo] name_with_initials: A.D.sdfasdas
+[15-Dec-2025 14:57:20 Asia/Colombo] gender: male
+[15-Dec-2025 14:57:20 Asia/Colombo] date_of_birth: 1967-12-09
+[15-Dec-2025 14:57:20 Asia/Colombo] Checking duplicate ID: nic, 780303478V
+[15-Dec-2025 14:57:20 Asia/Colombo] Inserting family with ID: 42321215145720
+[15-Dec-2025 14:57:20 Asia/Colombo] Inserting citizen: Asdfafsd, ID: 780303478V
+[15-Dec-2025 14:57:20 Asia/Colombo] Family registered successfully: 42321215145720
+[16-Dec-2025 08:40:42 Asia/Colombo] Form data received: Array
+(
+    [family_address] => Family 1 Address
+    [identification_type] => nic
+    [identification_number] => 782303478V
+    [full_name] => Ramanathan
+    [name_with_initials] => A. Ramanathan
+    [gender] => male
+    [date_of_birth] => 1978-10-10
+    [ethnicity] => Tamil
+    [religion] => Hindu
+    [mobile_phone] => 0770034512
+    [home_phone] => 0232223410
+    [email] => itbarath@gmail.com
+    [marital_status] => single
+    [member_address] => Mannar new street
+)
+
+[16-Dec-2025 08:40:42 Asia/Colombo] family_address: Family 1 Address
+[16-Dec-2025 08:40:42 Asia/Colombo] identification_type: nic
+[16-Dec-2025 08:40:42 Asia/Colombo] identification_number: 782303478V
+[16-Dec-2025 08:40:42 Asia/Colombo] full_name: Ramanathan
+[16-Dec-2025 08:40:42 Asia/Colombo] name_with_initials: A. Ramanathan
+[16-Dec-2025 08:40:42 Asia/Colombo] gender: male
+[16-Dec-2025 08:40:42 Asia/Colombo] date_of_birth: 1978-10-10
+[16-Dec-2025 08:40:42 Asia/Colombo] Checking duplicate ID: nic, 782303478V
+[16-Dec-2025 08:40:42 Asia/Colombo] Inserting family with ID: 42321216084042
+[16-Dec-2025 08:40:42 Asia/Colombo] Inserting citizen: Ramanathan, ID: 782303478V
+[16-Dec-2025 08:40:42 Asia/Colombo] Family registered successfully: 42321216084042
+[16-Dec-2025 23:43:05 Asia/Colombo] PHP Fatal error:  Cannot declare class FormManager, because the name is already in use in /var/www/html/fpms/classes/SubmissionManager.php on line 2
+[17-Dec-2025 01:16:54 Asia/Colombo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /var/www/html/fpms/classes/Auth.php on line 949
+[17-Dec-2025 01:17:01 Asia/Colombo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /var/www/html/fpms/classes/Auth.php on line 949
+[17-Dec-2025 02:00:11 Asia/Colombo] Error getting submissions: Unknown column 's.gn_id' in 'where clause'
+[18-Dec-2025 11:58:30 Asia/Colombo] Error getting district stats: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 11:59:19 Asia/Colombo] Error getting district stats: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 12:56:05 Asia/Colombo] Error getting manageable users: Illegal mix of collations (utf8mb4_0900_ai_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:03:00 Asia/Colombo] PHP Fatal error:  Cannot redeclare UserManager::getDivisionalSecretariatsUnderDistrict() in /var/www/html/fpms/classes/UserManager.php on line 334
+[18-Dec-2025 13:04:58 Asia/Colombo] Error getting manageable users: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:05:53 Asia/Colombo] Error getting division stats: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:06:10 Asia/Colombo] Error getting manageable users: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:13:59 Asia/Colombo] Error getting district stats: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:18:57 Asia/Colombo] Error getting district stats: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:19:57 Asia/Colombo] Error getting district stats: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:19:57 Asia/Colombo] Error getting district stats: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:21:07 Asia/Colombo] Error getting district stats: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:21:07 Asia/Colombo] Error getting district stats: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:21:11 Asia/Colombo] Error getting district stats: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:21:11 Asia/Colombo] Error getting district stats: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:22:29 Asia/Colombo] Error getting division stats: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:22:56 Asia/Colombo] Error getting district stats: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:23:34 Asia/Colombo] Error getting district stats: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:23:34 Asia/Colombo] Error getting district stats: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:24:43 Asia/Colombo] Getting stats for district: Mannar
+[18-Dec-2025 13:24:43 Asia/Colombo] Error getting district stats for 'Mannar': Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:24:43 Asia/Colombo] Final stats for 'Mannar': Array
+(
+    [total_divisions] => 0
+    [total_gn_divisions] => 0
+    [total_families] => 0
+    [total_population] => 0
+)
+
+[18-Dec-2025 13:24:43 Asia/Colombo] Getting stats for district: Mannar
+[18-Dec-2025 13:24:43 Asia/Colombo] Error getting district stats for 'Mannar': Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:24:43 Asia/Colombo] Final stats for 'Mannar': Array
+(
+    [total_divisions] => 0
+    [total_gn_divisions] => 0
+    [total_families] => 0
+    [total_population] => 0
+)
+
+[18-Dec-2025 13:29:43 Asia/Colombo] Getting stats for district: Mannar
+[18-Dec-2025 13:29:43 Asia/Colombo] Error getting district stats for 'Mannar': Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:29:43 Asia/Colombo] Final stats for 'Mannar': Array
+(
+    [total_divisions] => 0
+    [total_gn_divisions] => 0
+    [total_families] => 0
+    [total_population] => 0
+)
+
+[18-Dec-2025 13:29:43 Asia/Colombo] Getting stats for district: Mannar
+[18-Dec-2025 13:29:43 Asia/Colombo] Error getting district stats for 'Mannar': Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:29:43 Asia/Colombo] Final stats for 'Mannar': Array
+(
+    [total_divisions] => 0
+    [total_gn_divisions] => 0
+    [total_families] => 0
+    [total_population] => 0
+)
+
+[18-Dec-2025 13:29:54 Asia/Colombo] Getting stats for district: Mannar
+[18-Dec-2025 13:29:54 Asia/Colombo] Error getting district stats for 'Mannar': Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:29:54 Asia/Colombo] Final stats for 'Mannar': Array
+(
+    [total_divisions] => 0
+    [total_gn_divisions] => 0
+    [total_families] => 0
+    [total_population] => 0
+)
+
+[18-Dec-2025 13:29:54 Asia/Colombo] Getting stats for district: Mannar
+[18-Dec-2025 13:29:54 Asia/Colombo] Error getting district stats for 'Mannar': Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:29:54 Asia/Colombo] Final stats for 'Mannar': Array
+(
+    [total_divisions] => 0
+    [total_gn_divisions] => 0
+    [total_families] => 0
+    [total_population] => 0
+)
+
+[18-Dec-2025 13:36:43 Asia/Colombo] Getting stats for district: Mannar
+[18-Dec-2025 13:36:43 Asia/Colombo] Error getting district stats for 'Mannar': Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:36:43 Asia/Colombo] Final stats for 'Mannar': Array
+(
+    [total_divisions] => 0
+    [total_gn_divisions] => 0
+    [total_families] => 0
+    [total_population] => 0
+)
+
+[18-Dec-2025 13:37:19 Asia/Colombo] Getting stats for district: Mannar
+[18-Dec-2025 13:37:19 Asia/Colombo] Error getting district stats for 'Mannar': Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:37:19 Asia/Colombo] Final stats for 'Mannar': Array
+(
+    [total_divisions] => 0
+    [total_gn_divisions] => 0
+    [total_families] => 0
+    [total_population] => 0
+)
+
+[18-Dec-2025 13:37:19 Asia/Colombo] Getting stats for district: Mannar
+[18-Dec-2025 13:37:19 Asia/Colombo] Error getting district stats for 'Mannar': Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:37:19 Asia/Colombo] Final stats for 'Mannar': Array
+(
+    [total_divisions] => 0
+    [total_gn_divisions] => 0
+    [total_families] => 0
+    [total_population] => 0
+)
+
+[18-Dec-2025 13:39:17 Asia/Colombo] Getting stats for district: Mannar
+[18-Dec-2025 13:39:17 Asia/Colombo] Error getting district stats for 'Mannar': Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:39:17 Asia/Colombo] Final stats for 'Mannar': Array
+(
+    [total_divisions] => 0
+    [total_gn_divisions] => 0
+    [total_families] => 0
+    [total_population] => 0
+)
+
+[18-Dec-2025 13:39:17 Asia/Colombo] Getting stats for district: Mannar
+[18-Dec-2025 13:39:17 Asia/Colombo] Error getting district stats for 'Mannar': Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 13:39:17 Asia/Colombo] Final stats for 'Mannar': Array
+(
+    [total_divisions] => 0
+    [total_gn_divisions] => 0
+    [total_families] => 0
+    [total_population] => 0
+)
+
+[18-Dec-2025 14:40:45 Asia/Colombo] Error getting divisional secretariats for district 'Mannar': Unknown column 'u.user_id' in 'field list'
+[18-Dec-2025 14:40:45 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 15:09:53 Asia/Colombo] Error getting divisional secretariats for district 'Ampara': Unknown column 'u.user_id' in 'field list'
+[18-Dec-2025 15:09:53 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 15:10:01 Asia/Colombo] Error getting divisional secretariats for district 'Mannar': Unknown column 'u.user_id' in 'field list'
+[18-Dec-2025 15:10:01 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 15:17:06 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 15:25:53 Asia/Colombo] Error getting manageable users: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 15:26:02 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 15:26:36 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 15:32:04 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 15:34:52 Asia/Colombo] Error getting divisional secretariats for district 'Mannar': Unknown column 'u.user_id' in 'field list'
+[18-Dec-2025 15:34:52 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 15:36:12 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 15:37:10 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 15:40:32 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 15:41:04 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 15:55:52 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 15:57:52 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 15:58:22 Asia/Colombo] GN Divisions System Error: Unknown column 'Province' in 'field list'
+[18-Dec-2025 15:58:32 Asia/Colombo] GN Divisions System Error: Unknown column 'Province' in 'field list'
+[18-Dec-2025 16:00:34 Asia/Colombo] Error getting manageable users: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 16:00:41 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 16:01:25 Asia/Colombo] GN Divisions System Error: Unknown column 'Province' in 'field list'
+[18-Dec-2025 16:06:24 Asia/Colombo] Division name from session: Nanaddan
+[18-Dec-2025 16:06:24 Asia/Colombo] Found division info: Array
+(
+    [Division_Name] => Nanaddan
+    [District_Name] => Mannar
+    [Province_Name] => Province
+    [Office_Code] => Nanaddan
+)
+
+[18-Dec-2025 16:06:24 Asia/Colombo] Division name for query: Nanaddan
+[18-Dec-2025 16:06:24 Asia/Colombo] GN Query: SELECT 
+                  fws.GN as gn_name,
+                  fws.GN_ID as gn_id,
+                  fws.Division_Name as division_name,
+                  fws.District_Name as district_name
+                  FROM mobile_service.fix_work_station fws
+                  WHERE fws.Division_Name = ? AND fws.Division_Name = ? ORDER BY fws.GN ASC
+[18-Dec-2025 16:06:24 Asia/Colombo] Query params: Array
+(
+    [0] => Nanaddan
+)
+
+[18-Dec-2025 16:06:24 Asia/Colombo] Total divisions found: 31
+[18-Dec-2025 16:43:15 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 16:43:19 Asia/Colombo] Division name from session: Nanaddan
+[18-Dec-2025 16:43:19 Asia/Colombo] Found division info: Array
+(
+    [Division_Name] => Nanaddan
+    [District_Name] => Mannar
+    [Province_Name] => Province
+    [Office_Code] => Nanaddan
+)
+
+[18-Dec-2025 16:43:19 Asia/Colombo] Division name for query: Nanaddan
+[18-Dec-2025 16:43:19 Asia/Colombo] GN Query: SELECT 
+                  fws.GN as gn_name,
+                  fws.GN_ID as gn_id,
+                  fws.Division_Name as division_name,
+                  fws.District_Name as district_name
+                  FROM mobile_service.fix_work_station fws
+                  WHERE fws.Division_Name = ? AND fws.Division_Name = ? ORDER BY fws.GN ASC
+[18-Dec-2025 16:43:19 Asia/Colombo] Query params: Array
+(
+    [0] => Nanaddan
+)
+
+[18-Dec-2025 16:43:19 Asia/Colombo] Total divisions found: 31
+[18-Dec-2025 16:45:24 Asia/Colombo] Division name from session: Nanaddan
+[18-Dec-2025 16:45:24 Asia/Colombo] Found division info: Array
+(
+    [Division_Name] => Nanaddan
+    [District_Name] => Mannar
+    [Province_Name] => Province
+    [Office_Code] => Nanaddan
+)
+
+[18-Dec-2025 16:45:24 Asia/Colombo] Division name for query: Nanaddan
+[18-Dec-2025 16:45:24 Asia/Colombo] GN Query: SELECT 
+                  fws.GN as gn_name,
+                  fws.GN_ID as gn_id,
+                  fws.Division_Name as division_name,
+                  fws.District_Name as district_name
+                  FROM mobile_service.fix_work_station fws
+                  WHERE fws.Division_Name = ? AND fws.Division_Name = ? ORDER BY fws.GN ASC
+[18-Dec-2025 16:45:24 Asia/Colombo] Query params: Array
+(
+    [0] => Nanaddan
+)
+
+[18-Dec-2025 16:45:24 Asia/Colombo] Query types: s
+[18-Dec-2025 16:45:24 Asia/Colombo] Count query: SELECT COUNT(*) as total FROM mobile_service.fix_work_station fws WHERE fws.Division_Name = ?
+[18-Dec-2025 16:45:24 Asia/Colombo] Binding count params: s - Nanaddan
+[18-Dec-2025 16:45:24 Asia/Colombo] Total divisions found: 31
+[18-Dec-2025 16:45:24 Asia/Colombo] GN query with pagination: SELECT 
+                  fws.GN as gn_name,
+                  fws.GN_ID as gn_id,
+                  fws.Division_Name as division_name,
+                  fws.District_Name as district_name
+                  FROM mobile_service.fix_work_station fws
+                  WHERE fws.Division_Name = ? AND fws.Division_Name = ? ORDER BY fws.GN ASC LIMIT ? OFFSET ?
+[18-Dec-2025 16:45:24 Asia/Colombo] Binding GN params: sii - Nanaddan, 25, 0
+[18-Dec-2025 16:47:44 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 16:47:46 Asia/Colombo] Division name from session: Nanaddan
+[18-Dec-2025 16:47:46 Asia/Colombo] Found division info: Array
+(
+    [Division_Name] => Nanaddan
+    [District_Name] => Mannar
+    [Province_Name] => Province
+    [Office_Code] => Nanaddan
+)
+
+[18-Dec-2025 16:47:46 Asia/Colombo] Division name for query: Nanaddan
+[18-Dec-2025 16:47:46 Asia/Colombo] GN Query: SELECT 
+                  fws.GN as gn_name,
+                  fws.GN_ID as gn_id,
+                  fws.Division_Name as division_name,
+                  fws.District_Name as district_name
+                  FROM mobile_service.fix_work_station fws
+                  WHERE fws.Division_Name = ? AND fws.Division_Name = ? ORDER BY fws.GN ASC
+[18-Dec-2025 16:47:46 Asia/Colombo] Query params: Array
+(
+    [0] => Nanaddan
+)
+
+[18-Dec-2025 16:47:46 Asia/Colombo] Query types: s
+[18-Dec-2025 16:47:46 Asia/Colombo] Count query: SELECT COUNT(*) as total FROM mobile_service.fix_work_station fws WHERE fws.Division_Name = ?
+[18-Dec-2025 16:47:46 Asia/Colombo] Binding count params: s - Nanaddan
+[18-Dec-2025 16:47:46 Asia/Colombo] Total divisions found: 31
+[18-Dec-2025 16:47:46 Asia/Colombo] GN query with pagination: SELECT 
+                  fws.GN as gn_name,
+                  fws.GN_ID as gn_id,
+                  fws.Division_Name as division_name,
+                  fws.District_Name as district_name
+                  FROM mobile_service.fix_work_station fws
+                  WHERE fws.Division_Name = ? AND fws.Division_Name = ? ORDER BY fws.GN ASC LIMIT ? OFFSET ?
+[18-Dec-2025 16:47:46 Asia/Colombo] Binding GN params: sii - Nanaddan, 25, 0
+[18-Dec-2025 16:48:10 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 16:48:12 Asia/Colombo] Division name from session: Mannar Town
+[18-Dec-2025 16:48:12 Asia/Colombo] Found division info: Array
+(
+    [Division_Name] => Mannar Town
+    [District_Name] => Mannar
+    [Province_Name] => Province
+    [Office_Code] => Mannar Town
+)
+
+[18-Dec-2025 16:48:12 Asia/Colombo] Division name for query: Mannar Town
+[18-Dec-2025 16:48:12 Asia/Colombo] GN Query: SELECT 
+                  fws.GN as gn_name,
+                  fws.GN_ID as gn_id,
+                  fws.Division_Name as division_name,
+                  fws.District_Name as district_name
+                  FROM mobile_service.fix_work_station fws
+                  WHERE fws.Division_Name = ? AND fws.Division_Name = ? ORDER BY fws.GN ASC
+[18-Dec-2025 16:48:12 Asia/Colombo] Query params: Array
+(
+    [0] => Mannar Town
+)
+
+[18-Dec-2025 16:48:12 Asia/Colombo] Query types: s
+[18-Dec-2025 16:48:12 Asia/Colombo] Count query: SELECT COUNT(*) as total FROM mobile_service.fix_work_station fws WHERE fws.Division_Name = ?
+[18-Dec-2025 16:48:12 Asia/Colombo] Binding count params: s - Mannar Town
+[18-Dec-2025 16:48:12 Asia/Colombo] Total divisions found: 49
+[18-Dec-2025 16:48:12 Asia/Colombo] GN query with pagination: SELECT 
+                  fws.GN as gn_name,
+                  fws.GN_ID as gn_id,
+                  fws.Division_Name as division_name,
+                  fws.District_Name as district_name
+                  FROM mobile_service.fix_work_station fws
+                  WHERE fws.Division_Name = ? AND fws.Division_Name = ? ORDER BY fws.GN ASC LIMIT ? OFFSET ?
+[18-Dec-2025 16:48:12 Asia/Colombo] Binding GN params: sii - Mannar Town, 25, 0
+[18-Dec-2025 16:54:50 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 16:54:55 Asia/Colombo] Division name from session: Mannar Town
+[18-Dec-2025 16:54:55 Asia/Colombo] Found division info: Array
+(
+    [Division_Name] => Mannar Town
+    [District_Name] => Mannar
+    [Province_Name] => Province
+    [Office_Code] => Mannar Town
+)
+
+[18-Dec-2025 16:54:55 Asia/Colombo] Division name for query: Mannar Town
+[18-Dec-2025 16:54:55 Asia/Colombo] Total divisions found: 49
+[18-Dec-2025 16:54:55 Asia/Colombo] GN data retrieved: 25 rows
+[18-Dec-2025 16:54:55 Asia/Colombo] GN Divisions System Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 16:55:03 Asia/Colombo] Division name from session: Mannar Town
+[18-Dec-2025 16:55:03 Asia/Colombo] Found division info: Array
+(
+    [Division_Name] => Mannar Town
+    [District_Name] => Mannar
+    [Province_Name] => Province
+    [Office_Code] => Mannar Town
+)
+
+[18-Dec-2025 16:55:03 Asia/Colombo] Division name for query: Mannar Town
+[18-Dec-2025 16:55:03 Asia/Colombo] Total divisions found: 49
+[18-Dec-2025 16:55:03 Asia/Colombo] GN data retrieved: 25 rows
+[18-Dec-2025 16:55:03 Asia/Colombo] GN Divisions System Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 16:55:03 Asia/Colombo] Division name from session: Mannar Town
+[18-Dec-2025 16:55:03 Asia/Colombo] Found division info: Array
+(
+    [Division_Name] => Mannar Town
+    [District_Name] => Mannar
+    [Province_Name] => Province
+    [Office_Code] => Mannar Town
+)
+
+[18-Dec-2025 16:55:03 Asia/Colombo] Division name for query: Mannar Town
+[18-Dec-2025 16:55:03 Asia/Colombo] Total divisions found: 49
+[18-Dec-2025 16:55:03 Asia/Colombo] GN data retrieved: 25 rows
+[18-Dec-2025 16:55:03 Asia/Colombo] GN Divisions System Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 16:59:40 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 16:59:49 Asia/Colombo] Division name from session: Mannar Town
+[18-Dec-2025 16:59:49 Asia/Colombo] Found division info: Array
+(
+    [Division_Name] => Mannar Town
+    [District_Name] => Mannar
+    [Province_Name] => Province
+    [Office_Code] => Mannar Town
+)
+
+[18-Dec-2025 16:59:49 Asia/Colombo] Division name for query: Mannar Town
+[18-Dec-2025 16:59:49 Asia/Colombo] Total divisions found: 49
+[18-Dec-2025 16:59:49 Asia/Colombo] GN data retrieved: 25 rows
+[18-Dec-2025 16:59:49 Asia/Colombo] GN Divisions System Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 17:00:09 Asia/Colombo] Division name from session: Mannar Town
+[18-Dec-2025 17:00:09 Asia/Colombo] Found division info: Array
+(
+    [Division_Name] => Mannar Town
+    [District_Name] => Mannar
+    [Province_Name] => Province
+    [Office_Code] => Mannar Town
+)
+
+[18-Dec-2025 17:00:09 Asia/Colombo] Division name for query: Mannar Town
+[18-Dec-2025 17:00:09 Asia/Colombo] Total divisions found: 1
+[18-Dec-2025 17:00:09 Asia/Colombo] GN data retrieved: 1 rows
+[18-Dec-2025 17:00:09 Asia/Colombo] GN Divisions System Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 17:02:39 Asia/Colombo] Division name from session: Mannar Town
+[18-Dec-2025 17:02:39 Asia/Colombo] Found division info: Array
+(
+    [Division_Name] => Mannar Town
+    [District_Name] => Mannar
+    [Province_Name] => Province
+    [Office_Code] => Mannar Town
+)
+
+[18-Dec-2025 17:02:39 Asia/Colombo] Division name for query: Mannar Town
+[18-Dec-2025 17:02:39 Asia/Colombo] Total divisions found: 1
+[18-Dec-2025 17:02:39 Asia/Colombo] GN data retrieved: 1 rows
+[18-Dec-2025 17:02:39 Asia/Colombo] GN Divisions System Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 17:03:07 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 19:56:17 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 19:56:22 Asia/Colombo] Division name from session: Mannar Town
+[18-Dec-2025 19:56:22 Asia/Colombo] Found division info: Array
+(
+    [Division_Name] => Mannar Town
+    [District_Name] => Mannar
+    [Province_Name] => Province
+    [Office_Code] => Mannar Town
+)
+
+[18-Dec-2025 19:56:22 Asia/Colombo] Division name for query: Mannar Town
+[18-Dec-2025 19:56:22 Asia/Colombo] Total divisions found: 49
+[18-Dec-2025 19:56:22 Asia/Colombo] GN data retrieved: 25 rows
+[18-Dec-2025 19:56:22 Asia/Colombo] GN Divisions System Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 19:57:55 Asia/Colombo] Division name from session: Mannar Town
+[18-Dec-2025 19:57:55 Asia/Colombo] Found division info: Array
+(
+    [Division_Name] => Mannar Town
+    [District_Name] => Mannar
+    [Province_Name] => Province
+    [Office_Code] => Mannar Town
+)
+
+[18-Dec-2025 19:57:55 Asia/Colombo] Total divisions found: 49
+[18-Dec-2025 19:57:55 Asia/Colombo] GN data retrieved: 25 rows
+[18-Dec-2025 19:57:55 Asia/Colombo] GN Divisions System Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 19:58:05 Asia/Colombo] Division name from session: Mannar Town
+[18-Dec-2025 19:58:05 Asia/Colombo] Found division info: Array
+(
+    [Division_Name] => Mannar Town
+    [District_Name] => Mannar
+    [Province_Name] => Province
+    [Office_Code] => Mannar Town
+)
+
+[18-Dec-2025 19:58:05 Asia/Colombo] Total divisions found: 49
+[18-Dec-2025 19:58:05 Asia/Colombo] GN data retrieved: 25 rows
+[18-Dec-2025 19:58:05 Asia/Colombo] GN Divisions System Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 20:02:34 Asia/Colombo] GN Divisions System Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 20:04:57 Asia/Colombo] GN Divisions System Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 20:06:12 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 20:06:43 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 20:06:56 Asia/Colombo] GN Divisions System Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 20:08:08 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 20:08:13 Asia/Colombo] GN Divisions System Error: Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,IMPLICIT) for operation '='
+[18-Dec-2025 20:28:28 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 21:54:19 Asia/Colombo] Error getting divisional secretariats for district 'Mannar': Unknown column 'u.user_id' in 'field list'
+[18-Dec-2025 21:54:19 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 21:55:03 Asia/Colombo] Error getting divisional secretariats for district 'Mannar': Unknown column 'u.user_id' in 'field list'
+[18-Dec-2025 21:55:03 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 22:11:53 Asia/Colombo] PHP Fatal error:  Cannot redeclare UserManager::getAllUsers() in /var/www/html/fpms/classes/UserManager.php on line 1883
+[18-Dec-2025 22:46:41 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 22:47:39 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 22:47:59 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 23:00:36 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:10:04 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:13:54 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:14:30 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:14:30 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:16:53 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:22:27 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:23:04 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:23:08 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:24:25 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:24:36 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:24:36 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:25:16 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:35:04 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:39:17 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:39:37 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:39:39 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:39:44 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:39:47 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:45:13 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:45:43 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:45:56 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[18-Dec-2025 23:47:02 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 23:49:07 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[18-Dec-2025 23:58:19 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[19-Dec-2025 00:09:06 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:15:11 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:15:25 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:15:29 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:15:29 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:15:31 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:19:10 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:19:17 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:20:26 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:20:34 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:22:52 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:23:33 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:23:56 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:23:56 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:24:15 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:24:22 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:24:22 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:24:35 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:25:20 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:25:42 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:25:42 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:26:21 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:26:35 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:26:50 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:27:23 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:27:23 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:27:44 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:32:01 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:34:30 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 00:41:22 Asia/Colombo] Error getting user form stats: Unknown column 'created_by_user_id' in 'where clause'
+[19-Dec-2025 10:57:08 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[19-Dec-2025 10:59:29 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[20-Dec-2025 12:40:00 Asia/Colombo] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /var/www/html/fpms/classes/FormManager.php:1151
+Stack trace:
+#0 /var/www/html/fpms/classes/FormManager.php(1151): mysqli->close()
+#1 /var/www/html/fpms/classes/FormManager.php(1157): FormManager->closeConnection()
+#2 [internal function]: FormManager->__destruct()
+#3 {main}
+  thrown in /var/www/html/fpms/classes/FormManager.php on line 1151
+[20-Dec-2025 14:36:50 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[20-Dec-2025 14:40:46 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[20-Dec-2025 14:41:00 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[20-Dec-2025 14:42:06 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[20-Dec-2025 14:51:14 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[20-Dec-2025 15:02:56 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[20-Dec-2025 15:05:43 Asia/Colombo] Form data received: Array
+(
+    [family_address] => NO 18 kasndkjasd
+    [identification_type] => nic
+    [identification_number] => 198602002356
+    [full_name] => kjhsakdjhfas
+    [name_with_initials] => A.sajdhkfja
+    [gender] => male
+    [date_of_birth] => 1986-12-10
+    [ethnicity] => Sinhala
+    [religion] => Hindu
+    [mobile_phone] => 0706034512
+    [home_phone] => 0770080938
+    [email] => syscgaa@gmail.com
+    [marital_status] => married
+    [member_address] => knkjnjsdfgs
+)
+
+[20-Dec-2025 15:05:43 Asia/Colombo] family_address: NO 18 kasndkjasd
+[20-Dec-2025 15:05:43 Asia/Colombo] identification_type: nic
+[20-Dec-2025 15:05:43 Asia/Colombo] identification_number: 198602002356
+[20-Dec-2025 15:05:43 Asia/Colombo] full_name: kjhsakdjhfas
+[20-Dec-2025 15:05:43 Asia/Colombo] name_with_initials: A.sajdhkfja
+[20-Dec-2025 15:05:43 Asia/Colombo] gender: male
+[20-Dec-2025 15:05:43 Asia/Colombo] date_of_birth: 1986-12-10
+[20-Dec-2025 15:05:43 Asia/Colombo] Checking duplicate ID: nic, 198602002356
+[20-Dec-2025 15:05:43 Asia/Colombo] Inserting family with ID: 42321220150543
+[20-Dec-2025 15:05:43 Asia/Colombo] Inserting citizen: kjhsakdjhfas, ID: 198602002356
+[20-Dec-2025 15:05:43 Asia/Colombo] Family registered successfully: 42321220150543
+[21-Dec-2025 07:11:21 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[21-Dec-2025 10:44:18 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[21-Dec-2025 10:44:25 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[21-Dec-2025 10:44:31 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[21-Dec-2025 10:44:42 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[21-Dec-2025 10:45:23 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[21-Dec-2025 10:53:12 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[21-Dec-2025 10:53:56 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[21-Dec-2025 10:54:05 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[21-Dec-2025 10:54:42 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[21-Dec-2025 10:57:19 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[21-Dec-2025 20:11:31 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[21-Dec-2025 20:27:08 Asia/Colombo] Error getting manageable users: Table 'fpms.fix_work_station' doesn't exist
+[21-Dec-2025 20:28:38 Asia/Colombo] Error getting manageable users: Table 'fpms.fix_work_station' doesn't exist
+[21-Dec-2025 20:29:35 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[21-Dec-2025 20:30:26 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[22-Dec-2025 11:44:30 Asia/Colombo] Error getting divisional secretariats for district 'Ampara': Unknown column 'u.user_id' in 'field list'
+[22-Dec-2025 11:44:30 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[22-Dec-2025 11:44:37 Asia/Colombo] Error getting divisional secretariats for district 'Mannar': Unknown column 'u.user_id' in 'field list'
+[22-Dec-2025 11:44:37 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[22-Dec-2025 11:48:26 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[22-Dec-2025 11:50:50 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[22-Dec-2025 11:51:46 Asia/Colombo] Error getting recent activities: Table 'fpms.fix_work_station' doesn't exist
+[22-Dec-2025 12:10:40 Asia/Colombo] Form data received: Array
+(
+    [family_address] => NO 181,23412 askjdkfa, sdfas
+    [identification_type] => nic
+    [identification_number] => 967822027V
+    [full_name] => Sebastian Dionis Claus
+    [name_with_initials] => S. Dionis Claus
+    [gender] => male
+    [date_of_birth] => 1996-08-22
+    [ethnicity] => Tamil
+    [religion] => Christian
+    [mobile_phone] => 0719865965
+    [home_phone] => 
+    [email] => Dionis2@gmail.com
+    [marital_status] => married
+    [member_address] => NO 181,23412 askjdkfa, sdfas
+)
+
+[22-Dec-2025 12:10:40 Asia/Colombo] family_address: NO 181,23412 askjdkfa, sdfas
+[22-Dec-2025 12:10:40 Asia/Colombo] identification_type: nic
+[22-Dec-2025 12:10:40 Asia/Colombo] identification_number: 967822027V
+[22-Dec-2025 12:10:40 Asia/Colombo] full_name: Sebastian Dionis Claus
+[22-Dec-2025 12:10:40 Asia/Colombo] name_with_initials: S. Dionis Claus
+[22-Dec-2025 12:10:40 Asia/Colombo] gender: male
+[22-Dec-2025 12:10:40 Asia/Colombo] date_of_birth: 1996-08-22
+[22-Dec-2025 12:10:40 Asia/Colombo] Checking duplicate ID: nic, 967822027V
+[22-Dec-2025 12:10:40 Asia/Colombo] Inserting family with ID: 42321222121040
+[22-Dec-2025 12:10:40 Asia/Colombo] Inserting citizen: Sebastian Dionis Claus, ID: 967822027V
+[22-Dec-2025 12:10:40 Asia/Colombo] Family registered successfully: 42321222121040
+[22-Dec-2025 15:00:04 Asia/Colombo] PHP Fatal error:  Cannot redeclare FormManager::getAvailableForms() in /var/www/html/fpms/classes/FormManager.php on line 1288
+[22-Dec-2025 15:00:09 Asia/Colombo] PHP Fatal error:  Cannot redeclare FormManager::getAvailableForms() in /var/www/html/fpms/classes/FormManager.php on line 1288
