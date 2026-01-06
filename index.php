@@ -91,7 +91,7 @@ include 'includes/header.php';
                     <?php if ($_SESSION['user_type'] === 'moha'): ?>
                     <!-- MOHA Dashboard -->
                     <div class="col-xl-3 col-md-6 mb-4">
-                        <div class="card text-white bg-primary h-100">
+                        <div class="card text-white bg-primary h-100">  
                             <div class="card-body">
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div>
